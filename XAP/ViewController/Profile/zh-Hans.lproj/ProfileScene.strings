@@ -1,0 +1,192 @@
+
+/* Class = "UILabel"; text = "Promotions & new features"; ObjectID = "3Hh-o5-Qat"; */
+"3Hh-o5-Qat.text" = "促销&新特性色";
+
+/* Class = "UILabel"; text = "Partially verified"; ObjectID = "75e-WR-UnA"; */
+"75e-WR-UnA.text" = "部分验证";
+
+/* Class = "UILabel"; text = "Account Notifications"; ObjectID = "9z0-KD-mIj"; */
+"9z0-KD-mIj.text" = "账户认证";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "BgB-KB-yRs"; */
+"BgB-KB-yRs.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Sold"; ObjectID = "CkX-xE-ev9"; */
+"CkX-xE-ev9.normalTitle" = "销售";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "Cw4-lJ-cHf"; */
+"Cw4-lJ-cHf.text" = "验证";
+
+/* Class = "UILabel"; text = "Verify your identity with Facebook"; ObjectID = "D41-fN-hmF"; */
+"D41-fN-hmF.text" = "通过脸书验证你的身份";
+
+/* Class = "UIButton"; normalTitle = "User Details"; ObjectID = "DAF-il-q99"; */
+"DAF-il-q99.normalTitle" = "用户细则";
+
+/* Class = "UIButton"; normalTitle = "Reserve"; ObjectID = "DmK-CK-h6X"; */
+"DmK-CK-h6X.normalTitle" = "保留";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Edy-9s-j1O"; */
+"Edy-9s-j1O.text" = "Label";
+
+/* Class = "UILabel"; text = "USD1,000"; ObjectID = "Eyt-w9-gxA"; */
+"Eyt-w9-gxA.text" = "USD1,000";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "FZt-vK-Z6f"; */
+"FZt-vK-Z6f.text" = "性别";
+
+/* Class = "UILabel"; text = "Favorite Categories"; ObjectID = "G5q-5S-AfW"; */
+"G5q-5S-AfW.text" = "最喜欢的类目";
+
+/* Class = "UIButton"; normalTitle = "Please verify your profile"; ObjectID = "GDU-3f-Fea"; */
+"GDU-3f-Fea.normalTitle" = "请验证你的简历";
+
+/* Class = "UILabel"; text = "Selling"; ObjectID = "HKA-ra-IEz"; */
+"HKA-ra-IEz.text" = "销售";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "Hd8-ec-Kti"; */
+"Hd8-ec-Kti.title" = "保存";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IhA-EP-AAb"; */
+"IhA-EP-AAb.text" = "Label";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "Jxh-yw-pjF"; */
+"Jxh-yw-pjF.text" = "4";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "LW4-U7-OxH"; */
+"LW4-U7-OxH.text" = "0";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "N6V-br-VVO"; */
+"N6V-br-VVO.text" = "姓";
+
+/* Class = "UILabel"; text = "Reserved"; ObjectID = "N8e-Ci-YGA"; */
+"N8e-Ci-YGA.text" = "保留";
+
+/* Class = "UIButton"; normalTitle = "Send text message"; ObjectID = "NJk-ec-liI"; */
+"NJk-ec-liI.normalTitle" = "发送文本信息";
+
+/* Class = "UILabel"; text = "Reviews"; ObjectID = "OZF-9e-VmR"; */
+"OZF-9e-VmR.text" = "评论";
+
+/* Class = "UILabel"; text = "Share this listing"; ObjectID = "Oh5-92-bCt"; */
+"Oh5-92-bCt.text" = "分享这个清单";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "Pnu-vm-zCd"; */
+"Pnu-vm-zCd.title" = "保存";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "QGE-mi-ato"; */
+"QGE-mi-ato.text" = "名";
+
+/* Class = "UILabel"; text = "Change Photo"; ObjectID = "QeJ-x9-F3i"; */
+"QeJ-x9-F3i.text" = "更换图片";
+
+/* Class = "UILabel"; text = "Alex H."; ObjectID = "T7i-5A-pZr"; */
+"T7i-5A-pZr.text" = "Alex H.";
+
+/* Class = "UILabel"; text = "Expired listings"; ObjectID = "TEZ-9f-F13"; */
+"TEZ-9f-F13.text" = "过期清单";
+
+/* Class = "UILabel"; text = "HKD 900"; ObjectID = "U7m-Hc-4mP"; */
+"U7m-Hc-4mP.text" = "HKD 900";
+
+/* Class = "UILabel"; text = "Verifying your identify creates trust and credibility with XAP community"; ObjectID = "Wd8-ki-egP"; */
+"Wd8-ki-egP.text" = "验证您的身份可以在XAP社区创建信任和信誉";
+
+/* Class = "UILabel"; text = "Identify Verification"; ObjectID = "Woo-lm-rOX"; */
+"Woo-lm-rOX.text" = "身份验证";
+
+/* Class = "UILabel"; text = "Chats Messages"; ObjectID = "XFE-Kh-Xr9"; */
+"XFE-Kh-Xr9.text" = "聊天信息";
+
+/* Class = "UILabel"; text = "Price changes"; ObjectID = "Z7z-du-B2x"; */
+"Z7z-du-B2x.text" = "价格更";
+
+/* Class = "UILabel"; text = "Sold"; ObjectID = "ZJu-lP-gX5"; */
+"ZJu-lP-gX5.text" = "销售";
+
+/* Class = "UILabel"; text = "Where do you live?"; ObjectID = "ZQN-AK-TfO"; */
+"ZQN-AK-TfO.text" = "你住在哪里？";
+
+/* Class = "UILabel"; text = "Faves"; ObjectID = "a0o-PH-V1y"; */
+"a0o-PH-V1y.text" = "喜欢的";
+
+/* Class = "UILabel"; text = "Account Notifications"; ObjectID = "adU-JA-6Tt"; */
+"adU-JA-6Tt.text" = "账户通知";
+
+/* Class = "UILabel"; text = "Tips"; ObjectID = "amD-xm-CCc"; */
+"amD-xm-CCc.text" = "窍门";
+
+/* Class = "UILabel"; text = "Change Email"; ObjectID = "cTT-X5-woR"; */
+"cTT-X5-woR.text" = "更换邮箱地址";
+
+/* Class = "UILabel"; text = "Google Plus"; ObjectID = "dL1-qr-T7e"; */
+"dL1-qr-T7e.text" = "Google Plus";
+
+/* Class = "UILabel"; text = "USD1,000"; ObjectID = "eMb-sa-fqx"; */
+"eMb-sa-fqx.text" = "USD1,000";
+
+/* Class = "UILabel"; text = "Gaming mouse"; ObjectID = "fdV-ce-l3r"; */
+"fdV-ce-l3r.text" = "Gaming mouse";
+
+/* Class = "UILabel"; text = "Hong Kong"; ObjectID = "gcO-C7-Yhd"; */
+"gcO-C7-Yhd.text" = "Hong Kong";
+
+/* Class = "UIButton"; normalTitle = "Please verify your profile"; ObjectID = "h2e-92-G5S"; */
+"h2e-92-G5S.normalTitle" = "请验证你的简历";
+
+/* Class = "UILabel"; text = "Select the categories you're interested in"; ObjectID = "h8J-iV-8R2"; */
+"h8J-iV-8R2.text" = "选择你喜欢的类目";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "hFy-x2-5Q7"; */
+"hFy-x2-5Q7.title" = "保存";
+
+/* Class = "UILabel"; text = "Mad Catz Call of Duty: Black Ops Stealth Mouse"; ObjectID = "ivB-xc-Poy"; */
+"ivB-xc-Poy.text" = "Mad Catz Call of Duty: Black Ops Stealth Mouse";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kEQ-1i-eZl"; */
+"kEQ-1i-eZl.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "kWH-Fd-utY"; */
+"kWH-Fd-utY.text" = "0";
+
+/* Class = "UILabel"; text = "Edited more than a month"; ObjectID = "nBf-2j-NxV"; */
+"nBf-2j-NxV.text" = "再编辑多一个月";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "oEL-cR-OOW"; */
+"oEL-cR-OOW.placeholder" = "电话号码";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "ooS-py-wK2"; */
+"ooS-py-wK2.text" = "电话号码";
+
+/* Class = "UILabel"; text = "Sold"; ObjectID = "p0G-R6-3PZ"; */
+"p0G-R6-3PZ.text" = "销售";
+
+/* Class = "UILabel"; text = "USD1,000"; ObjectID = "pbS-IE-Vll"; */
+"pbS-IE-Vll.text" = "USD1,000";
+
+/* Class = "UILabel"; text = "Please verify your phone. We will send you a text message with a verification code."; ObjectID = "qD6-HP-ccL"; */
+"qD6-HP-ccL.text" = "请验证你的手机号码。我们会以短信的形式把验证消息发你手机上。";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "qY7-b4-iYe"; */
+"qY7-b4-iYe.text" = "电话";
+
+/* Class = "UILabel"; text = "Google Plus"; ObjectID = "rqJ-Cz-7Iq"; */
+"rqJ-Cz-7Iq.text" = "Google Plus";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "sZL-Kt-AZ2"; */
+"sZL-Kt-AZ2.text" = "Facebook";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "uDX-TZ-Rjp"; */
+"uDX-TZ-Rjp.text" = "Facebook";
+
+/* Class = "UILabel"; text = "More options"; ObjectID = "wDy-E0-uWu"; */
+"wDy-E0-uWu.text" = "更多选项";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "wa8-Pq-Qb6"; */
+"wa8-Pq-Qb6.text" = "邮箱";
+
+/* Class = "UILabel"; text = "Verify your identity with Google Plus"; ObjectID = "xj5-cV-JZs"; */
+"xj5-cV-JZs.text" = "通过谷歌加验证你的身份";
+
+/* Class = "UILabel"; text = "What day were you born?"; ObjectID = "ybQ-83-wjG"; */
+"ybQ-83-wjG.text" = "你是那一天出生的？";

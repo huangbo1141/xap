@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "24"; ObjectID = "0CJ-8A-rCh"; */
+"0CJ-8A-rCh.text" = "24";
+
+/* Class = "UILabel"; text = "Sort by distance"; ObjectID = "1gc-Z9-WqU"; */
+"1gc-Z9-WqU.text" = "按距离排序";
+
+/* Class = "UILabel"; text = "days"; ObjectID = "3bV-mP-LlX"; */
+"3bV-mP-LlX.text" = "天";
+
+/* Class = "UILabel"; text = "Accepts trades"; ObjectID = "CNZ-kf-Z2C"; */
+"CNZ-kf-Z2C.text" = "接受贸易";
+
+/* Class = "UILabel"; text = "hours"; ObjectID = "CSS-oY-FV6"; */
+"CSS-oY-FV6.text" = "小时";
+
+/* Class = "UILabel"; text = "7"; ObjectID = "GGi-Xw-mPi"; */
+"GGi-Xw-mPi.text" = "7";
+
+/* Class = "UILabel"; text = "Publish date"; ObjectID = "Kxb-d6-EC3"; */
+"Kxb-d6-EC3.text" = "出版日期";
+
+/* Class = "UITextField"; placeholder = "Search XAP"; ObjectID = "Lu8-H1-Jgi"; */
+"Lu8-H1-Jgi.placeholder" = "搜索XAP";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "OGM-Lb-D9a"; */
+"OGM-Lb-D9a.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "S8H-mn-7zV"; */
+"S8H-mn-7zV.text" = "30";
+
+/* Class = "UILabel"; text = "What else?"; ObjectID = "SKN-NZ-aZG"; */
+"SKN-NZ-aZG.text" = "其他的？";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "Tfb-9K-VY1"; */
+"Tfb-9K-VY1.normalTitle" = "申请";
+
+/* Class = "UILabel"; text = "Price high to low"; ObjectID = "Xmc-15-icQ"; */
+"Xmc-15-icQ.text" = "价格从高到底";
+
+/* Class = "UILabel"; text = "Most recently published"; ObjectID = "ZCv-HG-yAd"; */
+"ZCv-HG-yAd.text" = "最新出版的";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "epw-r2-o3m"; */
+"epw-r2-o3m.text" = "Label";
+
+/* Class = "UILabel"; text = "Price low to high"; ObjectID = "iJ4-xc-zDc"; */
+"iJ4-xc-zDc.text" = "价格从低到高";
+
+/* Class = "UILabel"; text = "Delivers"; ObjectID = "kFo-TT-tv9"; */
+"kFo-TT-tv9.text" = "交付";
+
+/* Class = "UILabel"; text = "USD1,000"; ObjectID = "kI6-ns-LT5"; */
+"kI6-ns-LT5.text" = "USD1,000";
+
+/* Class = "UILabel"; text = "Sort By"; ObjectID = "l7U-bS-eXu"; */
+"l7U-bS-eXu.text" = "排序方式=排序方式";
+
+/* Class = "UILabel"; text = "days"; ObjectID = "oHF-ns-Shf"; */
+"oHF-ns-Shf.text" = "天";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "pZA-Oi-6Yy"; */
+"pZA-Oi-6Yy.text" = "距离";
+
+/* Class = "UILabel"; text = "Far (10+ miles)"; ObjectID = "rQu-0I-41c"; */
+"rQu-0I-41c.text" = "远（十几英里）";
+
+/* Class = "UILabel"; text = "795$ - 11843$"; ObjectID = "yZb-WF-OQr"; */
+"yZb-WF-OQr.text" = "795$ - 11843$";

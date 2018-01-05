@@ -1,0 +1,66 @@
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "0ex-Y9-4i7"; */
+"0ex-Y9-4i7.placeholder" = "密码";
+
+/* Class = "UILabel"; text = "It takes a few seconds"; ObjectID = "1L4-vb-3JI"; */
+"1L4-vb-3JI.text" = "要花几秒钟";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "1YP-Ct-GsR"; */
+"1YP-Ct-GsR.normalTitle" = "登录";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "20x-SL-XTd"; */
+"20x-SL-XTd.normalTitle" = "登录";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "4EL-X0-wiO"; */
+"4EL-X0-wiO.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "User Name"; ObjectID = "5IR-Qf-tUI"; */
+"5IR-Qf-tUI.placeholder" = "用户名";
+
+/* Class = "UIButton"; normalTitle = "Send Recovery Email"; ObjectID = "Dzc-hu-X3M"; */
+"Dzc-hu-X3M.normalTitle" = "恢复密码";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "H9O-cj-cGq"; */
+"H9O-cj-cGq.normalTitle" = "登录";
+
+/* Class = "UIButton"; normalTitle = "I forgot my password"; ObjectID = "N5L-85-eSx"; */
+"N5L-85-eSx.normalTitle" = "我忘记密码了";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Oan-aD-Bg5"; */
+"Oan-aD-Bg5.placeholder" = "密码";
+
+/* Class = "UILabel"; text = "* 8 characters at least"; ObjectID = "a1B-qt-QCb"; */
+"a1B-qt-QCb.text" = "* 必须至少   字符";
+
+/* Class = "UILabel"; text = "Or continue with e-mail"; ObjectID = "aC0-hI-ea2"; */
+"aC0-hI-ea2.text" = "用邮件继续";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "b8h-wR-wOZ"; */
+"b8h-wR-wOZ.normalTitle" = "注册";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password"; ObjectID = "eCw-eE-rRm"; */
+"eCw-eE-rRm.normalTitle" = "忘记密码";
+
+/* Class = "UIButton"; normalTitle = "Sign in with Facebook"; ObjectID = "eNA-hH-fRd"; */
+"eNA-hH-fRd.normalTitle" = "用脸书登录";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "ldx-yi-HTd"; */
+"ldx-yi-HTd.normalTitle" = "注册";
+
+/* Class = "UILabel"; text = "By signing up or loggin in, you agree to our Terms & Conditions and Privacy Policy"; ObjectID = "mKx-io-hce"; */
+"mKx-io-hce.text" = "你需要同意我们的条款条件才能登录";
+
+/* Class = "UIButton"; normalTitle = "Sign in with Google Plus"; ObjectID = "pM7-BH-Tyg"; */
+"pM7-BH-Tyg.normalTitle" = "用谷歌加登录";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "s2V-TM-Fp3"; */
+"s2V-TM-Fp3.placeholder" = "邮箱";
+
+/* Class = "UILabel"; text = "Get Started"; ObjectID = "s4X-le-rRR"; */
+"s4X-le-rRR.text" = "开始";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "vpI-Mn-LPK"; */
+"vpI-Mn-LPK.placeholder" = "邮箱";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "z5V-pl-Maj"; */
+"z5V-pl-Maj.normalTitle" = "注册";

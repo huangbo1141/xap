@@ -1,0 +1,66 @@
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "0ex-Y9-4i7"; */
+"0ex-Y9-4i7.placeholder" = "Пароль";
+
+/* Class = "UILabel"; text = "It takes a few seconds"; ObjectID = "1L4-vb-3JI"; */
+"1L4-vb-3JI.text" = "Это займет всего несколько секунд";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "1YP-Ct-GsR"; */
+"1YP-Ct-GsR.normalTitle" = "Войти";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "20x-SL-XTd"; */
+"20x-SL-XTd.normalTitle" = "Войти";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "4EL-X0-wiO"; */
+"4EL-X0-wiO.placeholder" = "Електронная почта";
+
+/* Class = "UITextField"; placeholder = "User Name"; ObjectID = "5IR-Qf-tUI"; */
+"5IR-Qf-tUI.placeholder" = "Имя пользователя";
+
+/* Class = "UIButton"; normalTitle = "Recover Password"; ObjectID = "Dzc-hu-X3M"; */
+"Dzc-hu-X3M.normalTitle" = "Восстановить пароль";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "H9O-cj-cGq"; */
+"H9O-cj-cGq.normalTitle" = "Войти";
+
+/* Class = "UIButton"; normalTitle = "I forgot my password"; ObjectID = "N5L-85-eSx"; */
+"N5L-85-eSx.normalTitle" = "Я не помню пароль";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Oan-aD-Bg5"; */
+"Oan-aD-Bg5.placeholder" = "Пароль";
+
+/* Class = "UILabel"; text = "* 8 characters at least"; ObjectID = "a1B-qt-QCb"; */
+"a1B-qt-QCb.text" = "* как минимум 8 символовt";
+
+/* Class = "UILabel"; text = "Or continue with e-mail"; ObjectID = "aC0-hI-ea2"; */
+"aC0-hI-ea2.text" = "или продолжить с помощью адреса";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "b8h-wR-wOZ"; */
+"b8h-wR-wOZ.normalTitle" = "Зарегистрироваться";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password"; ObjectID = "eCw-eE-rRm"; */
+"eCw-eE-rRm.normalTitle" = "Забыли пароль";
+
+/* Class = "UIButton"; normalTitle = "Sign in with Facebook"; ObjectID = "eNA-hH-fRd"; */
+"eNA-hH-fRd.normalTitle" = "Войти с аккаунта Facebook";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "ldx-yi-HTd"; */
+"ldx-yi-HTd.normalTitle" = "Зарегистрироваться";
+
+/* Class = "UILabel"; text = "By signing up or loggin in, you agree to our Terms & Conditions and Privacy Policy"; ObjectID = "mKx-io-hce"; */
+"mKx-io-hce.text" = "При регистрации или входе в аккаунт Вы соглашаетесь с нашими Сроками и Условиями, а также Политикой конфиденциальности";
+
+/* Class = "UIButton"; normalTitle = "Sign in with Google Plus"; ObjectID = "pM7-BH-Tyg"; */
+"pM7-BH-Tyg.normalTitle" = "Войти с аккаунта Google Plus";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "s2V-TM-Fp3"; */
+"s2V-TM-Fp3.placeholder" = "Електронная почта";
+
+/* Class = "UILabel"; text = "Get Started"; ObjectID = "s4X-le-rRR"; */
+"s4X-le-rRR.text" = "Начать";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "vpI-Mn-LPK"; */
+"vpI-Mn-LPK.placeholder" = "Електронная почта";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "z5V-pl-Maj"; */
+"z5V-pl-Maj.normalTitle" = "Зарегистрироваться";

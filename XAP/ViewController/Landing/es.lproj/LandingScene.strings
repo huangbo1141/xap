@@ -1,0 +1,66 @@
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "0ex-Y9-4i7"; */
+"0ex-Y9-4i7.placeholder" = "Contraseña";
+
+/* Class = "UILabel"; text = "It takes a few seconds"; ObjectID = "1L4-vb-3JI"; */
+"1L4-vb-3JI.text" = "Sólo lleva unos segundos";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "1YP-Ct-GsR"; */
+"1YP-Ct-GsR.normalTitle" = "Iniciar sesión";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "20x-SL-XTd"; */
+"20x-SL-XTd.normalTitle" = "Iniciar sesión";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "4EL-X0-wiO"; */
+"4EL-X0-wiO.placeholder" = "Correo electrónico";
+
+/* Class = "UITextField"; placeholder = "User Name"; ObjectID = "5IR-Qf-tUI"; */
+"5IR-Qf-tUI.placeholder" = "Nombre de usuario";
+
+/* Class = "UIButton"; normalTitle = "Send Recovery Email"; ObjectID = "Dzc-hu-X3M"; */
+"Dzc-hu-X3M.normalTitle" = "Recuperar contraseña";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "H9O-cj-cGq"; */
+"H9O-cj-cGq.normalTitle" = "Iniciar sesión";
+
+/* Class = "UIButton"; normalTitle = "I forgot my password"; ObjectID = "N5L-85-eSx"; */
+"N5L-85-eSx.normalTitle" = "Olvidé mi contraseña";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Oan-aD-Bg5"; */
+"Oan-aD-Bg5.placeholder" = "Contraseña";
+
+/* Class = "UILabel"; text = "* 8 characters at least"; ObjectID = "a1B-qt-QCb"; */
+"a1B-qt-QCb.text" = "* Al menos 8 caracteres";
+
+/* Class = "UILabel"; text = "Or continue with e-mail"; ObjectID = "aC0-hI-ea2"; */
+"aC0-hI-ea2.text" = "O continuar con correo electrónico";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "b8h-wR-wOZ"; */
+"b8h-wR-wOZ.normalTitle" = "Registrar";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password"; ObjectID = "eCw-eE-rRm"; */
+"eCw-eE-rRm.normalTitle" = "Olvidé mi contraseña";
+
+/* Class = "UIButton"; normalTitle = "Sign in with Facebook"; ObjectID = "eNA-hH-fRd"; */
+"eNA-hH-fRd.normalTitle" = "Iniciar sesión con Facebook";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "ldx-yi-HTd"; */
+"ldx-yi-HTd.normalTitle" = "Registrar";
+
+/* Class = "UILabel"; text = "By signing up or loggin in, you agree to our Terms & Conditions and Privacy Policy"; ObjectID = "mKx-io-hce"; */
+"mKx-io-hce.text" = "Al registrarte o al iniciar sesión, aceptas nuestros Términos y Condiciones y la Política de Privacidad";
+
+/* Class = "UIButton"; normalTitle = "Sign in with Google Plus"; ObjectID = "pM7-BH-Tyg"; */
+"pM7-BH-Tyg.normalTitle" = "Iniciar sesión con Google Plus";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "s2V-TM-Fp3"; */
+"s2V-TM-Fp3.placeholder" = "Correo electrónico";
+
+/* Class = "UILabel"; text = "Get Started"; ObjectID = "s4X-le-rRR"; */
+"s4X-le-rRR.text" = "Empezar";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "vpI-Mn-LPK"; */
+"vpI-Mn-LPK.placeholder" = "Correo electrónico";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "z5V-pl-Maj"; */
+"z5V-pl-Maj.normalTitle" = "Registrar";

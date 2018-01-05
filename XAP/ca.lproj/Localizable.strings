@@ -1,0 +1,112 @@
+/* 
+  Localizable.strings
+  HitchJob
+
+  Created by Alex on 11/1/2017.
+  Copyright © 2017 alex. All rights reserved.
+*/
+
+"Hello" = "Hola";
+"Please login" = "Per favor, iniciï sessió";
+"Male" = "Masculí";
+"Female" = "Femení";
+"Motors & Accessories" = "Motors i Accessoris";
+"Electronics" = "Electrònics";
+"Sports & Leisure" = "Esports i Oci";
+"Home & Garden" = "Llar i Jardí";
+"Games & Consoles" = "Jocs i Consoles";
+"Books, Movies & Music" = "Llibres, pel·lícules i música";
+"Fashion & Accessories" = "Moda i Accessoris";
+"Baby & Child" = "Bebès i Nens";
+"Real Estate" = "Propietats immobiliàries";
+"Appliances" = "Electrodomèstics";
+"Services" = "Serveis";
+"Other" = "Uns altres";
+"Accepts Trade" = "Acceptes Intercanvis";
+"Firm Price" = "Preu  no negociable";
+"Shipping Available" = "Enviament Disponible";
+"Distance" = "Distància";
+"Price low to high" = "Preu de baix a alt";
+"Price high to low" = "Preu d'alt a baix";
+"Most recently published" = "Publicació més recent";
+"People or animals" = "Persones o animals";
+"Joke" = "Acudit";
+"Fake item" = "Article falsificat";
+"Explicit content" = "Contingut explícit";
+"Photo doesn't match" = "La foto no coincideix";
+"Food or drinks" = "Aliments o begudes";
+"Drugs or medicines" = "Fàrmacs o medicaments";
+"Doubled item" = "Article duplicat";
+"Forbidden product or service" = "Producte o servei prohibit";
+"Resale (tickets, etc)" = "Revenda (entrades, etc.)";
+"Spam" = "Spam";
+"XAP Invitation" = "Invitació a XAP";
+"I've been using XAP, and it's been great. Use it to earn some extra money by selling what you don't need, and discover fantastic things for sale in your community.\n\n" = "Estic usant XAP, i està sent genial. Utilitza-ho per guanyar diners extres venent articles que ja no necessites i descobreix coses fantàstiques que estan a la venda en la teva comunitat.\n\n";
+"Create Account or Sign in" = "Crear Compte o Iniciar Sessió";
+"at XAP" = "en XAP";
+"Go to profile" = "Anar al perfil";
+"Share listing on XAP" = "Compartir llistat en XAP";
+"This is Listing on XAP, shared by" = "Això està llistat en XAP, compartit per";
+"Cancel" = "Cancel·lar";
+"Sign Out" = "Tancar sessió";
+"Failed to SignOut." = "No es va poder tancar sessió.";
+"MALE" = "MASCULÍ";
+"FEMALE" = "FEMENÍ";
+"Succeed to update profile" = "Actualització de perfil realitzada correctament";
+"Failed to update profile" = "No es va poder actualitzar el perfil";
+"Email" = "Correu electrònic";
+"Change email" = "Canviar correu electrònic";
+"OK" = "OK";
+"Select Source" = "Seleccionar Font";
+"Camera Roll" = "Àlbum de càmera";
+"Take Photo" = "Treure Foto";
+"Facebook account is successfully verified" = "El compte de Facebook va ser verificada correctament";
+"Failed to verify your Facebook account" = "No es va poder verificar el teu compte de Facebook";
+"Google account is successfully verified." = "El compte de Google va ser verificada correctament.";
+"Failed to verify your Google account" = "No es va poder verificar el teu compte de Google";
+"Email address is not exist.\nPlease try again after input Email address on profile setting." = "L'adreça de correu electrònic no existeix.\nnPor favor, intenti-ho de nou després d'introduir l'adreça de correu electrònic en la configuració de perfil.";
+"Verification email sent." = "El correu electrònic de verificació va ser enviat.";
+"Failed to send verification email" = "No es va poder enviar el correu electrònic de verificació";
+"Succeed to update interesting categories." = "Les categories interessants van ser actualitzades correctament.";
+"Failed to update interesting categories." = "No es va poder actualitzar categories interessants.";
+"Succeed to update Notification settings." = "La configuració de les notificacions va ser actualitzada correctament.";
+"Failed to update Notification settings." = "No es va poder actualitzar la configuració de les notificacions.";
+"Close (1 mile)" = "A prop (1 milla)";
+"My area (5 miles)" = "La meva àrea (5 milles)";
+"My city (10 miles)" = "La meva ciutat (10 milles)";
+"Far (10+ miles)" = "Lluny (Més de 10 milles)";
+"Update item" = "Actualitzar article";
+"You have to add at least one picture." = "Has d'afegir almenys una imatge.";
+"Successed listing item" = "L'article va ser llistat correctament";
+"Failed listing item" = "No es va poder llistar l'article";
+"Done" = "Fet";
+"Failed to delete messsages." = "No es va poder eliminar els missatges.";
+"Chat" = "Xat";
+"Failed to Login using your Facebook account" = "No es va poder iniciar la sessió amb el teu compte de Facebook ";
+"Failed to Login using your Google account" = "No es va poder iniciar la sessió amb el teu compte de Google";
+"Please input Email address." = "Per favor, introdueix l'adreça de correu electrònic.";
+"Please input correct Email address." = "Per favor, introdueix una adreça de correu electrònic correcta.";
+"Please input Password." = "Per favor, introdueix la Contrasenya.";
+"Failed to Signin" = "No es va poder iniciar sessió";
+"Invalid Email/Password. Please input valid informations." = "Correu electrònic/contrasenya no vàlida. Per favor, introdueix una informació vàlida.";
+"Please input UserName." = "Per favor, introdueix el Nom d'Usuari.";
+"Password should be at least 8 characters." = "La contrasenya ha de tenir almenys 8 caràcters.";
+"Failed to Signin" = "No es va poder iniciar sessió";
+"Failed to register user" = "No es va poder registrar usuari";
+
+"The email address has already been registered!" = "Ja s'ha registrat l'adreça de correu electrònic!";
+"The username has already been registered!" = "El nom d'usuari ja s'ha registrat!";
+"App couldn't connect to our server, because of your network condition.\nPlease check your network and refresh." = "L'aplicació no s'ha pogut connectar al nostre servidor, a causa de la vostra condició de xarxa. \n Verifiqueu la vostra xarxa i actualitzeu-la.";
+"Network Error" = "Error de connexió";
+
+"Loading..." = "Carregant ...";
+"Cancel" = "Cancel·lar";
+"Loading will takes some time." = "Carregar trigarà un temps.";
+"We tried, but something went\nteriblly wrong" = "Hem intentat, però alguna \ncosa va fallar";
+"Try Again!" = "Try Again!";
+"Slow or no internet connections.\nPlease check your internet settings" = "Lent o cap connexió a Internet. \nVerifiqueu la configuració d'Internet";
+"No item founds" = "No n'hi ha cap element";
+
+"App couldn't connect to our server, because of your network condition.\nPlease check your network and refresh." = "L'aplicació no s'ha pogut connectar al nostre servidor, a causa de la vostra condició de xarxa. \nVerifiqueu la vostra xarxa i actualitzeu-la. ";
+"Turn On Location Services to determine your location" = "Activa els Serveis d'ubicació per determinar la teva ubicació";
+"Settings" = "Configuració";

@@ -1,0 +1,111 @@
+/* 
+  Localizable.strings
+  HitchJob
+
+  Created by Alex on 11/1/2017.
+  Copyright © 2017 alex. All rights reserved.
+*/
+
+"Hello" = "Здравствуйте";
+"Please login" = "Пожалуйста войдите";
+"Male" = "Мужской";
+"Female" = "Женский";
+"Motors & Accessories" = "Моторы и аксессуары";
+"Electronics" = "Електронная техника";
+"Sports & Leisure" = "Спорт и отдых";
+"Home & Garden" = "Дом и сад";
+"Games & Consoles" = "Игры и игровые приставки";
+"Books, Movies & Music" = "Books, Movies & Music";
+"Fashion & Accessories" = "Мода и аксессуары";
+"Baby & Child" = "Младенцы и дети";
+"Real Estate" = "Недвижимость";
+"Appliances" = "Приборы";
+"Services" = "Услуги";
+"Other" = "Прочее";
+"Accepts Trade" = "Принять условия";
+"Firm Price" = "Цена фиксированная";
+"Shipping Available" = "Возможна доставка";
+"Distance" = "Расстояние";
+"Price low to high" = "Цена с минимальной до максимальной";
+"Price high to low" = "Цена с максимальной до минимальной";
+"Most recently published" = "Самые новые публикации";
+"People or animals" = "Люди или животные";
+"Joke" = "Шутка";
+"Fake item" = "Подделка";
+"Explicit content" = "Запрещённый контент";
+"Photo doesn't match" = "Фото не соответствует";
+"Food or drinks" = "Еда или напитки";
+"Drugs or medicines" = "Лекарства";
+"Doubled item" = "Двойной товар";
+"Forbidden product or service" = "Запрещённые товары или услуги";
+"Resale (tickets, etc)" = "Перепродажа (билеты, др.)";
+"Spam" = "Спам";
+"XAP Invitation" = "Приглашение на  XAP";
+"I've been using XAP, and it's been great. Use it to earn some extra money by selling what you don't need, and discover fantastic things for sale in your community.\n\n" = "Я пользуюсь XAP - великолепное приложение! Зарабатывайте деньги на вещах в которых Вы больше не нуждаетесь и находите изумительные товары в Вашем сообществе.\n\n";
+"Create Account or Sign in" = "Создать аккаунт или войти";
+"at XAP" = "на XAP";
+"Go to profile" = "К моей странице";
+"Share listing on XAP" = "Поделиться списком на XAP";
+"This is Listing on XAP, shared by" = "Этим списком на XAР поделились";
+"Cancel" = "Отменить";
+"Sign Out" = "Выйти";
+"Failed to SignOut." = "Не удаётся выйти.";
+"MALE" = "Мужской";
+"FEMALE" = "Женский";
+"Succeed to update profile" = "Страница редактирована";
+"Failed to update profile" = "Не удаётся редактировать страницу";
+"Email" = "Електронная почта";
+"Change email" = "Изменить адрес Вашей електронной почты";
+"OK" = "ОКЕЙ";
+"Select Source" = "Выбрать";
+"Camera Roll" = "Камера включена";
+"Take Photo" = "Сделать фото";
+"Facebook account is successfully verified" = "Проверка на наличие аккаунта Facebook благополучно выполнена";
+"Failed to verify your Facebook account" = "Не удалось выполнить проверку на наличие аккаунта Facebook ";
+"Google account is successfully verified." = "Проверка на наличие аккаунта Google благополучно выполнена.";
+"Failed to verify your Google account" = "Не удалось выполнить проверку на наличие аккаунта Google";
+"Email address is not exist.\nPlease try again after input Email address on profile setting." = "Данный адрес не существует.\nПожалуйста, попробуйте снова после введения адреса Вашей електронной почты в настройках.";
+"Verification email sent." = "Сообщение для подтверждения отправлено.";
+"Failed to send verification email" = "Не удалось отправить сообщение для подтверждения";
+"Succeed to update interesting categories." = "Интересные категории обновлены.";
+"Failed to update interesting categories." = "Не удалось обновить интересные категории.";
+"Succeed to update Notification settings." = "Настройки оповещений обновлены.";
+"Failed to update Notification settings." = "Не удалось обновить настройки оповещений.";
+"Close (1 mile)" = "Вблизи (1 км)";
+"My area (5 miles)" = "Мой район (5 км)";
+"My city (10 miles)" = "Мой город (10 км)";
+"Far (10+ miles)" = "Далеко (10+ км)";
+"Update item" = "Обновить товар";
+"You have to add at least one picture." = "Необходимо добавить минимум одну фотографию.";
+"Successed listing item" = "Товар добавлен в список";
+"Failed listing item" = "Не удаётся добавить товар в список";
+"Done" = "Готово";
+"Failed to delete messsages." = "Не удаётся удалить сообщения.";
+"Chat" = "Чат";
+"Failed to Login using your Facebook account" = "Не получается войти через аккаунт Facebook";
+"Failed to Login using your Google account" = "Не получается войти через аккаунт Google";
+"Please input Email address." = "Пожалуйста, введите адрес Вашей електронной почты.";
+"Please input correct Email address." = "Пожалуйста, проверьте правильность данных Вашей електронной почты.";
+"Please input Password." = "Пожалуйста, введите Ваш пароль.";
+"Failed to Signin" = "Не удаётся войти";
+"Invalid Email/Password. Please input valid informations." = "Не удаётся войти. Пожалуйста, проверьте правильность введённых данных.";
+"Please input UserName." = "Пожалуйста, введите Ваше имя пользователя.";
+"Password should be at least 8 characters." = "Пароль должен содержать не менее 8 символов.";
+"Failed to Signin" = "Не удаётся войти";
+"Failed to register user" = "Не удаётся зарегистрироваться";
+
+"The email address has already been registered!" = "Адрес электронной почты уже зарегистрирован!";
+"The username has already been registered!" = "Имя пользователя уже зарегистрировано!";
+"App couldn't connect to our server, because of your network condition.\nPlease check your network and refresh." = "Приложение не может подключиться к нашему серверу из-за вашего состояния сети.\nПожалуйста , проверьте свою сеть и обновите.";
+"Network Error" = "Ошибка сети";
+"Loading..." = "Загрузка...";
+"Cancel" = "Отменить";
+"Loading will takes some time." = "Загрузка займет некоторое время.";
+"We tried, but something went\nteriblly wrong" = "Мы пробовали, но что-то \nпошло не так";
+"Try Again!" = "Try Again!";
+"Slow or no internet connections.\nPlease check your internet settings" = "Медленное или отсутствие интернет соединения \nПожалуйста, проверьте настройки вашего интернета";
+"No item founds" = "Ничего не найдено";
+
+"App couldn't connect to our server, because of your network condition.\nPlease check your network and refresh." = "Приложение не может подключиться к нашему серверу из-за вашего состояния сети. \nПожалуйста , проверьте свою сеть и обновите.";
+"Turn On Location Services to determine your location" = "TВключить службы определения местоположения, чтобы определить ваше местоположение";
+"Settings" = "Настройки";

@@ -1,0 +1,282 @@
+
+/* Class = "UILabel"; text = "These rules are written to establish guidelines and regulations of coexistence between buyers and sellers and set forth a climate of cordiality between the two."; ObjectID = "07Z-ec-Xpq"; */
+"07Z-ec-Xpq.text" = "这些规则的制定是为了建立买卖双方共存的指导方针和规则，并在两者之间营造出一种热诚的氛围。";
+
+/* Class = "UIButton"; normalTitle = "Privacy policy"; ObjectID = "0NZ-yI-svN"; */
+"0NZ-yI-svN.normalTitle" = "隐私策略";
+
+/* Class = "UILabel"; text = "The personal data gathered via the application for the provision of any service or use of the website will be integrated into a computer file. The data obtained will be used to provide the requested services and also employed to keep the user informed of updates to the application’s services and contents, bearing in mind, wherever appropriate, the preferences that the user has indicated. The User agrees to receiving these alerts, provided that they are related to the stated preferences or services and information used by the User."; ObjectID = "0ay-mJ-8rG"; */
+"0ay-mJ-8rG.text" = "通过申请提供任何服务或使用网站的个人资料将被整合到一个计算机文件中。所获得的数据将用于提供所请求的服务，并用于使用户了解到应用程序的服务和内容的更新，无论在适当的地方，用户所指定的首选项。用户同意接收这些警报，前提是它们与用户所使用的首选项或服务和信息相关。";
+
+/* Class = "UILabel"; text = "Other provisions"; ObjectID = "0pY-lk-A3t"; */
+"0pY-lk-A3t.text" = "其他规定";
+
+/* Class = "UILabel"; text = "* From the XAP team, we recommend that in the event that you could not move, you can try to send the items cash on delivery or by courier payable on delivery."; ObjectID = "1gM-OW-LWT"; */
+"1gM-OW-LWT.text" = "* 在XAP，我们建议你在不知如何进行时， 你可以试着选择到付或者货到付款。";
+
+/* Class = "UILabel"; text = "The user expressly states that any personal or data from a third party that they access, insert, modify or delete, they have the right to do so or have the express authorisation of this third party. The User may exercise their rights of access, rectification, cancellation and opposition of their personal data, in the terms established by the Data Protection Act, at the following address: Tenabled SL Avenida Diagonal 601 8º 08028 Barcelona"; ObjectID = "1sP-Vx-FoK"; */
+"1sP-Vx-FoK.text" = "用户明确声明，任何来自第三方的个人或数据，他们有权访问、插入、修改或删除，他们有权这样做，或拥有这个第三方的快速授权。根据数据保护法案规定的条款，用户可以行使他们的访问权、整改权、撤销权和反对权，在以下地址:10月1日，即10月1日。";
+
+/* Class = "UILabel"; text = "Except in those cases in which the law expressly dictates otherwise, and exclusively with the extent and extension that is imposed, the application neither guarantees nor assumes any liability for possible losses and damages caused by the use and utilisation of the information, data and services contained in the application. "; ObjectID = "2Mp-x1-bno"; */
+"2Mp-x1-bno.text" = "除非在法律明文规定另有规定的情况下，且仅适用于所施加的范围和扩展，该应用程序既不保证也不承担因应用程序中包含的信息、数据和服务的使用和使用而造成的可能的损失和损害。";
+
+/* Class = "UILabel"; text = "The company adopts all mandatory technical and organisational security measures, in accordance with the provisions established by the legislation on data handling: Organic Law 15/1999 on the Protection of Personal Data, along with the Development Regulations of the LOPD:"; ObjectID = "3eX-os-AvC"; */
+"3eX-os-AvC.text" = "公司采取一切强制性的技术和组织安全措施，依照有关数据处理立法的规定:有机法15/1999保护个人数据，以及洛德公司的发展规定:";
+
+/* Class = "UILabel"; text = "How to report an article?"; ObjectID = "4YF-q2-V2K"; */
+"4YF-q2-V2K.text" = "如何报告一篇文章?";
+
+/* Class = "UILabel"; text = "What happens if I forget my password?"; ObjectID = "4a7-dG-k2x"; */
+"4a7-dG-k2x.text" = "如果我忘记密码怎么办?";
+
+/* Class = "UILabel"; text = "In the privacy policy are the instructions on how to unsubscribe, i.e. how to exercise your rights of modification, rectification and cancellation of your data."; ObjectID = "6eH-ht-qaV"; */
+"6eH-ht-qaV.text" = "在隐私政策中，关于如何取消订阅的指令，即如何行使你的修改、纠正和取消数据的权利。";
+
+/* Class = "UILabel"; text = "Availability of the application and information services"; ObjectID = "77i-5M-7BL"; */
+"77i-5M-7BL.text" = "应用程序和信息服务的可用性";
+
+/* Class = "UILabel"; text = "Can I block a conversation?"; ObjectID = "8H5-LD-aKX"; */
+"8H5-LD-aKX.text" = "我能阻止一次谈话吗?";
+
+/* Class = "UILabel"; text = "3. The XAP team reserves the right to change any of these rules without prior notice or to include new regulations. "; ObjectID = "9FK-0k-IuS"; */
+"9FK-0k-IuS.text" = "3. XAP团队保留更改这些规则的权利，不会事先通知，新的规则也同样适用。";
+
+/* Class = "UILabel"; text = "Compliance with LOPD "; ObjectID = "9pJ-sn-iA2"; */
+"9pJ-sn-iA2.text" = "遵守LOPD";
+
+/* Class = "UILabel"; text = "Report it, before these cases the best thing you can do is to report the product and let the XAP team be responsible for removing the product or the ad, if applicable."; ObjectID = "ABE-nB-jaJ"; */
+"ABE-nB-jaJ.text" = "在这些情况发生之前，最好的方法是报告产品，并让XAP团队负责删除产品或广告，如果适用的话";
+
+/* Class = "UILabel"; text = "These terms of use regulate the access to and use of the application, including the content and services made available to users in and/or through the application. Nonetheless, the access to and use of certain content or services may be subject to certain specific conditions."; ObjectID = "AaS-Ev-L6c"; */
+"AaS-Ev-L6c.text" = "这些使用条款规范了应用程序的访问和使用，包括通过应用程序向用户提供的内容和服务。尽管如此，对某些内容或服务的访问和使用可能受制于某些特定的条件。";
+
+/* Class = "UILabel"; text = "Below, a small list of some items that are not allowed for sell on XAP is given, please read this list before placing any article for sale."; ObjectID = "BBb-pp-WXS"; */
+"BBb-pp-WXS.text" = "以下是一些不允许在XAP上销售的商品的小列表，请在上架商品之前阅读此清单。";
+
+/* Class = "UILabel"; text = "* We recommend that whenever you carry out a transaction, this is always performed in person and never at distance, do not trust people who ask you to make the payment via Paypal or to pay with bank transfer, even less do we recommend that you make transactions to Moneygram or Western Union accounts to foreign countries. We wholly advise avoidance of transactions with Bitcoin, please remember that they are anonymous and you will never be able to claim should the transaction not be completed."; ObjectID = "Bwo-aO-mDd"; */
+"Bwo-aO-mDd.text" = "* 我们建议当你进行交易时，一定要自己亲自执行不要远距离操作，不相信那些让你通过PayPal或银行转账,更不用说我们推荐你使用的速汇金或者西联汇款到国外。我们完全建议避免使用比特币进行交易，请记住，他们是匿名的，如果交易没有完成，你将永远无法获得索赔。";
+
+/* Class = "UILabel"; text = "COMMERCIAL REGISTER"; ObjectID = "Cbj-oE-Ibv"; */
+"Cbj-oE-Ibv.text" = "商业登记";
+
+/* Class = "UILabel"; text = "What is the safest payment method? "; ObjectID = "Ckt-Ob-Efq"; */
+"Ckt-Ob-Efq.text" = "什么是最安全的支付方式? ";
+
+/* Class = "UIButton"; normalTitle = "Terms & conditions"; ObjectID = "DOu-cc-dRB"; */
+"DOu-cc-dRB.normalTitle" = "条款&条件";
+
+/* Class = "UILabel"; text = "1.0.0"; ObjectID = "DaM-mH-t7D"; */
+"DaM-mH-t7D.text" = "1.0.0";
+
+/* Class = "UILabel"; text = "Information and services"; ObjectID = "Ei7-CE-sJA"; */
+"Ei7-CE-sJA.text" = "信息和服务";
+
+/* Class = "UILabel"; text = "Is it compulsory to establish a location?"; ObjectID = "Eyn-kd-N38"; */
+"Eyn-kd-N38.text" = "建立一个地点是必须的吗?";
+
+/* Class = "UILabel"; text = "Applicable law and notifications"; ObjectID = "GGM-ST-dtH"; */
+"GGM-ST-dtH.text" = "适用法律和通知";
+
+/* Class = "UILabel"; text = "Good faith and diligence"; ObjectID = "GO7-hQ-6eM"; */
+"GO7-hQ-6eM.text" = "诚信守信";
+
+/* Class = "UILabel"; text = "* Under no circumstances you should buy any item which is described in the section XAP Regulations, remember that XAP collaborates with State security forces and bodies."; ObjectID = "Go9-om-sEa"; */
+"Go9-om-sEa.text" = "* 在任何情况下你应该购买在XAP规则下描述的任何物品，因为XAP是雨与国家安全部队和机构合作。";
+
+/* Class = "UILabel"; text = "Don't worry, click on the start menu, on forgotten password, then please enter your email and you will receive a new key."; ObjectID = "Gqs-xM-3ZT"; */
+"Gqs-xM-3ZT.text" = "不要担心，点击开始菜单，忘记密码，然后输入你的电子邮件，你就会收到一个新的密钥。";
+
+/* Class = "UILabel"; text = "In any case, the application reserves all the rights on the contents, information, data and services that it holds on the same. The application does not grant any license or authorisation to use the user with regard to its contents, data or services, other than those expressly detailed in these general terms of use for the application."; ObjectID = "HAa-AK-hRH"; */
+"HAa-AK-hRH.text" = "在任何情况下，应用程序都保留它所持有的内容、信息、数据和服务的所有权利。应用程序不允许对其内容、数据或服务使用任何许可或授权，而不允许使用该应用程序的一般使用条款中详细说明的内容、数据或服务。";
+
+/* Class = "UILabel"; text = "The purpose of the collection and processing of personal data is the management, delivery and customisation of the services and contents that the user receives and which will be reported in each section."; ObjectID = "IRo-yT-mbg"; */
+"IRo-yT-mbg.text" = "收集和处理个人数据的目的是管理、交付和定制用户接收到的服务和内容，并将在每个部分中报告。";
+
+/* Class = "UILabel"; text = "The application does not intervene in the creation of those contents and/or services offered or provided by third parties on or through the application, in the same way that it does control its legality either. In any case, it does not offer any kind of guarantee with regard to these. The user acknowledges that the application is not and shall not be liable for the contents and/or services offered or provided by third parties on or through the application. The user accepts that the application will not assume any liability for any loss or damage occurring as a result of the use of this information or services of third parties. "; ObjectID = "KdH-fE-Gbe"; */
+"KdH-fE-Gbe.text" = "应用程序不干预第三方提供或通过应用程序提供或提供的内容和/或服务，这与它对其合法性的控制是一样的。在任何情况下，它都不提供任何担保。用户承认，该应用程序不应对第三方提供或通过应用程序提供或提供的内容和/或服务承担责任。用户接受该应用程序不会对由于使用第三方的信息或服务而造成的任何损失或损害承担任何责任。";
+
+/* Class = "UIButton"; normalTitle = "Xap on Twitter"; ObjectID = "Kx3-MO-4c1"; */
+"Kx3-MO-4c1.normalTitle" = "XAP 在推特";
+
+/* Class = "UILabel"; text = "Prohibitions"; ObjectID = "M5q-ax-e7l"; */
+"M5q-ax-e7l.text" = "禁忌";
+
+/* Class = "UILabel"; text = "How do I rate a transaction?"; ObjectID = "MBY-vq-uwo"; */
+"MBY-vq-uwo.text" = "我如何评价一个交易?";
+
+/* Class = "UILabel"; text = "Regulation of the conditions of use"; ObjectID = "MLX-Cy-etR"; */
+"MLX-Cy-etR.text" = "使用条款规定";
+
+/* Class = "UILabel"; text = "What should I do if I find something illegal offered?"; ObjectID = "Oid-wm-dAe"; */
+"Oid-wm-dAe.text" = "如果我发现一些非法的东西，我该怎么办?";
+
+/* Class = "UILabel"; text = "The User shall comply at all times with the terms and conditions set forth in this legal notice. The User expressly states that they will use the application in a diligent manner and assuming any liability which may arise from a breach of the regulations."; ObjectID = "Ojs-gu-o5Y"; */
+"Ojs-gu-o5Y.text" = "用户应随时遵守本法律通知所规定的条款和条件。用户明确表示，他们将以勤勉的方式使用该应用程序，并承担可能因违反规定而产生的任何责任。";
+
+/* Class = "UILabel"; text = "info@xap.com.es"; ObjectID = "Pnr-vt-ftr"; */
+"Pnr-vt-ftr.text" = "info@xap.com.es";
+
+/* Class = "UILabel"; text = "The User undertakes to indemnify and waive liability on the part of the application for any damage, harm, sanction, fine, penalty or compensation that the application has to satisfy."; ObjectID = "RqG-Fm-h84"; */
+"RqG-Fm-h84.text" = "用户承诺对应用程序必须满足的任何损害、损害、处罚、罚款、罚款或补偿的部分，承担赔偿和免除责任知识产权和工业产权所有的内容、商标、标识、图纸、文件、软件或其他任何符合知识产权法律保护的东西，在应用程序中可访问的内容都是专门针对公司或其合法所有者的，并且所有的权利都是明确保留的。";
+
+/* Class = "UILabel"; text = "This option is located in the sales menu in the upper right section and contains three points, which state: report listing, we will report an article when you see an item for sale described in the section entitled XAP Regulations. "; ObjectID = "U6c-Bw-Uz5"; */
+"U6c-Bw-Uz5.text" = "该选项位于右上角的sales菜单中，包含三个要点，即:报告清单，当您看到在XAP规则中描述的销售项目时，我们将报告一篇文章。";
+
+/* Class = "UILabel"; text = "In other words, here practically everyone is welcome, we do not overrule entrance to anyone"; ObjectID = "V4K-5Z-CYw"; */
+"V4K-5Z-CYw.text" = "换句话说，这里几乎每个人都受到欢迎，我们不会对任何人的入口进行过多的规定。";
+
+/* Class = "UILabel"; text = "* Never trust ads with very low prices, which are in another language, or which intend to make contact outside the application."; ObjectID = "Vfh-uL-69h"; */
+"Vfh-uL-69h.text" = "* 不要相信价格很低且是其他语言的广告，或者是试图在应用程序之外联系的广告。";
+
+/* Class = "UILabel"; text = "The company reserves the right to modify at any time the terms of use. In any case, it is recommended that these terms of use are periodically checked, as the same may be modified."; ObjectID = "Wet-dv-K1F"; */
+"Wet-dv-K1F.text" = "本公司保留随时修改使用条款的权利。在任何情况下，建议使用定期检查这些术语，因为相同的情况可能会被修改。";
+
+/* Class = "UILabel"; text = "It is very simple, the transaction is always rated at the end and never before, although you will always find people who will want you to rate their transaction beforehand, when faced with these cases rely on your instinct, rating the transaction prematurely you then release the other party of all liability."; ObjectID = "WlT-fy-yOr"; */
+"WlT-fy-yOr.text" = "它非常简单,事务总是最后额定前所未有,虽然你总能找到人事先将希望你给他们的事务,当面对这些情况下依赖你的本能,过早评级交易然后释放另一方的责任。";
+
+/* Class = "UILabel"; text = "Relax, there is no problems. It is likely that not you've realised that said product may not be uploaded, for future occasions we advise you read thoroughly the section of XAP Regulations."; ObjectID = "Xjm-SK-Yya"; */
+"Xjm-SK-Yya.text" = "放松，没有问题。很可能你没有意识到产品可能不会被上传到网上，因为以后我们会建议你仔细阅读XAP规则的部分。";
+
+/* Class = "UILabel"; text = "User Obligations"; ObjectID = "XwG-Kg-5MQ"; */
+"XwG-Kg-5MQ.text" = "用户责任";
+
+/* Class = "UILabel"; text = "B66983537"; ObjectID = "YBX-qm-7ed"; */
+"YBX-qm-7ed.text" = "B66983537";
+
+/* Class = "UILabel"; text = "All content that could damage sensitivity, cause offence to other users or members of the XAP, animal abuse, aggression, brutality, incitement to hatred or to other people or their nationality, racism, xenophobia as well as anything else that is deemed offensive by us, will be removed immediately without prior notice."; ObjectID = "Ywk-wI-ntc"; */
+"Ywk-wI-ntc.text" = "所有可能造成损害敏感性的内容，对其他用户或XAP的成员造成冒犯，动物虐待、侵略、野蛮、煽动仇恨、对他人或其国籍、种族主义、仇外心理以及其他任何被我们视为冒犯的事物，将立即被删除，且不事先通知。";
+
+/* Class = "UILabel"; text = "The company has adopted in its information system the legally required technical and organisational measures, in order to ensure the security and confidentiality of the stored data, thus, avoiding, insofar as is possible, their alteration, loss, treatment or unauthorised access."; ObjectID = "Zbw-6w-8aN"; */
+"Zbw-6w-8aN.text" = "该公司在其信息系统中采用了法律上要求的技术和组织措施，以确保存储数据的安全性和机密性，因此，尽可能避免它们的变更、损失、处理或未经授权的访问。";
+
+/* Class = "UILabel"; text = "The parties undertake to fulfil their obligations and exercise the rights derived from these conditions with the strictest requirements of good faith and diligence."; ObjectID = "abo-mO-cGo"; */
+"abo-mO-cGo.text" = "各方承诺履行义务，以严格的诚信和勤勉要求行使这些条件所产生的权利。";
+
+/* Class = "UILabel"; text = "* Explosive materials\n* Spyware programmes, Trojans, Botnets, DDos\n* Tobacco, drugs, weapons (except for knifes and unused weapons)\n* Medicines\n* Currency exchange\n* Food or drink, products received by Government assistance \n* pyramidal structures, chain letters\n* blood, as well as body fluids\n* Propaganda any type that is to be, or links to other websites\n* pirated programmes, films, music etc.\n* Fuel\n* Tickets for concerts and for any event (ticket touting)\n* Any falsifications\n* Any item that this pirated.\n* Pornography\n* Any item that is for any illegal purpose\n* Not used or unused cards\n* Equipment owned by the State (police badges etc.)\n* The incitement to hatred or to violence, racism or xenophobia, the sale of flags is strictly forbidden, and symbols of previous eras are restricted to collectors and museums.\n* Ads with content that infringes the privacy or intellectual property or industrial rights, copyright, personal information, third-party content or content staff also like photographs of third parties are not allowed."; ObjectID = "adH-bl-bhC"; */
+"adH-bl-bhC.text" = "* 易燃易爆产品\n* 间谍软件项目，木马程序\n* 烟草，毒品，武器(除了刀和未使用的武器)\n* 药品药物\n* 货币兑换\n* *政府提供的产品，食品或饮料\n* 金字塔结构，连环信\n* 血液以及体液\n* 任何类型的宣传，或到其他网站的链接\n* 盗版节目、电影、音乐等等\n* 燃料\n* 音乐会门票和任何活动门票(售票)\n* 任何造假的文章\n* 任何被盗版的物品\n* 色情文学\n* 任何违法的物品\n* 不用或未使用的卡片\n* 国家所有的设备(警徽等)\n* 对仇恨、暴力、种族主义或仇外心理的煽动，严禁出售旗帜，仅限于收藏家和博物馆的古代符号标志\n* 含有侵犯隐私、知识产权或工业权利、版权、个人信息、第三方内容或者是第三方员工照片内容的广告";
+
+/* Class = "UILabel"; text = "Personal Data Protection "; ObjectID = "bNz-pg-1L1"; */
+"bNz-pg-1L1.text" = "个人数据保护";
+
+/* Class = "UILabel"; text = "Responsibility of the Application with regard to the contents"; ObjectID = "bUA-FY-yfP"; */
+"bUA-FY-yfP.text" = "应用程序对程序内容的责任";
+
+/* Class = "UILabel"; text = "* One of the tips offered by the XAP team is always try to rely on those sellers and buyers who have a good number of good ratings even, although there are some cases of people who want to be rated before the transaction is completed, these cases are few and far between, and are usually scammers, who for some reason or another always wish to receive payment and ratings early, so that they are never found out, you must be alert."; ObjectID = "bba-Bu-Vwo"; */
+"bba-Bu-Vwo.text" = "* XAP团队提供的一个建议总是试图依赖那些有良好信用评级的卖家和买家，尽管有些人希望在交易完成之前进行评级，这些案例很少，而且很少发生，而且通常会是骗子。由于某些原因，他们总是希望提前收到付款和评级，所以他们很难被发现，所以你必须保持警惕。";
+
+/* Class = "UIButton"; normalTitle = "Like us on Facebook"; ObjectID = "bn8-kx-GdR"; */
+"bn8-kx-GdR.normalTitle" = "喜欢我们在脸书上";
+
+/* Class = "UILabel"; text = "ARTICLES THAT ARE NOT ALLOWED ON XAP"; ObjectID = "c3B-aD-xNQ"; */
+"c3B-aD-xNQ.text" = "在XAP 上不能上的物品：";
+
+/* Class = "UILabel"; text = "Can I accept bitcoin payments or other currencies?"; ObjectID = "cML-rN-jby"; */
+"cML-rN-jby.text" = "我能接受比特币支付或其他货币吗?";
+
+/* Class = "UIButton"; normalTitle = "Contact us"; ObjectID = "dAG-bb-dsS"; */
+"dAG-bb-dsS.normalTitle" = "联系我们";
+
+/* Class = "UILabel"; text = "The User, as well as the company, owner of the application, may be referred to jointly as the parties. Access or use of the application, all or part of its contents and services implies complete acceptance of these terms of use. The availability and use of the application is understood as subject to strict compliance with the provisions set forth in these terms of use."; ObjectID = "dXH-QF-XdO"; */
+"dXH-QF-XdO.text" = "用户，以及公司，应用程序的所有者，可以作为当事人双方共同协商。应用程序的访问或使用，其部分或者全部的内容和服务意味着完全接受这些使用条款。应用程序的可用性和使用被理解为严格遵守这些使用条款中规定的条款。";
+
+/* Class = "UILabel"; text = "What happens if one of my products is removed?"; ObjectID = "edT-cU-ccQ"; */
+"edT-cU-ccQ.text" = "如果我的一个产品被移除会怎样?";
+
+/* Class = "UILabel"; text = "All content, trademarks, logos, drawings, documentation, software or anything else eligible for protection by the laws of intellectual property, that are accessible in the application correspond exclusively to the company or to its legitimate owners and all rights over them are expressly reserved. "; ObjectID = "eln-vD-ZO8"; */
+"eln-vD-ZO8.text" = "所有的内容、商标、标识、图纸、文件、软件或其他任何符合知识产权法律保护的东西，在应用程序中可访问的内容都是专门针对公司或其合法所有者的，并且所有的权利都是明确保留的。";
+
+/* Class = "UILabel"; text = "volume 845863, page 119, sheet No. B501274 Registration 2"; ObjectID = "fQA-Fp-awj"; */
+"fQA-Fp-awj.text" = "第845863卷, 第119页, 清单号B501274 登记号 2";
+
+/* Class = "UILabel"; text = "2. XAP reserves the right without notice to withdraw from sale any product which we have not mentioned above, by the mere fact of considering it illegal, of being in poor taste or even a tiresome blag."; ObjectID = "gbU-vS-geP"; */
+"gbU-vS-geP.text" = "2. XAP保留不通知任何我们没有提到的产品的权利，因为我们认为它是非法的是不合法的，甚至是令人讨厌的骗局。";
+
+/* Class = "UILabel"; text = "Null and void clauses"; ObjectID = "h8H-uC-nDu"; */
+"h8H-uC-nDu.text" = "无效条款";
+
+/* Class = "UILabel"; text = "Intellectual and Industrial Property Rights"; ObjectID = "hGs-kf-w5P"; */
+"hGs-kf-w5P.text" = "知识产权和工业产权";
+
+/* Class = "UILabel"; text = "The User is obliged, in those cases that request data or information, not to falsify their identity by impersonating any other person. The User accepts that the use of the application will be made for strictly personal, private and particular purposes. The User may not access the portal for activities contrary to the law, morality and public order as well as for prohibited purposes or that they violate or injure third party rights. Likewise, the dissemination, storage and management of data or contents that infringe rights of third parties or any regulatory of intellectual or industrial property rights is duly prohibited."; ObjectID = "hH8-Dc-XP5"; */
+"hH8-Dc-XP5.text" = "在那些要求数据或信息的情况下，用户是有义务的，而不是通过假冒他人来伪造自己的身份。用户接受应用程序的使用将是严格的个人、私有和特殊目的。用户不得进入违反法律、道德、公共秩序、禁止使用的活动，或者违反或损害第三方权利的行为。同样，对侵犯第三方权利的数据或内容的传播、存储和管理，也被适时地禁止。";
+
+/* Class = "UILabel"; text = "The safest payment method is always in cash, being able to always offer the cash on delivery as an alternative, or messaging payable on arrival is also another option."; ObjectID = "hgj-DJ-Z10"; */
+"hgj-DJ-Z10.text" = "最安全的支付方式总是现金，能够随时提供现金作为替代，或者在到达时支付的消息也是另一种选择。";
+
+/* Class = "UILabel"; text = "Generally, these ads are usually not reliable, refuse those who accept payments in these currencies, you run the risk of that they might disappear once you have been charged in that currency, trust your instinct."; ObjectID = "iIS-fC-X14"; */
+"iIS-fC-X14.text" = "一般来说，这些广告通常是不可靠的，拒绝那些接受这些货币付款的人，你会冒着这样的风险:一旦你被以这种货币收费，他们就会消失，相信你的直觉。";
+
+/* Class = "UILabel"; text = "We hope you have fun and we wish you a happy purchase."; ObjectID = "ibR-XP-WqQ"; */
+"ibR-XP-WqQ.text" = "我们希望你玩得开心，购物愉快！";
+
+/* Class = "UILabel"; text = "In any case, the application excludes any liability for damages that may result from the information or services offered or provided by third parties other than the company. Liability will be of the third party either provider, partner or other."; ObjectID = "jYC-14-3Db"; */
+"jYC-14-3Db.text" = "在任何情况下，该应用程序不包括因公司提供或提供的信息或服务而导致的损害赔偿责任。责任将由第三方提供者、合作伙伴或其他方承担。";
+
+/* Class = "UIButton"; normalTitle = "Xap Rules"; ObjectID = "kte-YM-Beh"; */
+"kte-YM-Beh.normalTitle" = "Xap 规则";
+
+/* Class = "UILabel"; text = "Contact us"; ObjectID = "li7-lN-VpJ"; */
+"li7-lN-VpJ.text" = "联系我们";
+
+/* Class = "UILabel"; text = "The application does not guarantee continuous and permanent availability of the services, and thus is duly exonerated from any liability for possible damages caused as a result of the lack of availability of the service for reasons due to force majeure or errors in telematic networks for data transfer, beyond the latter’s control, or for disconnections resulting from tasks geared towards the improvement or maintenance of computers and computer systems. The application shall not be held liable for the interruption, suspension, or termination of the information or services. Likewise, it shall not be held liable for possible omissions, loss of information, data, layouts, improper access or violation of confidentiality which arise from technical issues, for communications or human omissions, caused by third parties or not attributable to the portal. Nor will it be held liable for damage caused by computer attacks or resulting from viruses affecting computer programmes, systems of communication or equipment used by the application but manufactured or provided by a third party. The application may, at its sole discretion, refuse, remove, suspend and/or block at any time and without prior notice access to information and services to those users who fail to comply with these rules."; ObjectID = "ljN-1d-jj4"; */
+"ljN-1d-jj4.text" = "应用程序不能保证服务的持续和永久可用性，这样就可以免除由于不可抗力的原因或电信网络的数据传输错误导致服务的缺乏造成肯可能的损害赔偿责任， 后者是无法控制的，或者是由于计算机和计算机系统的改进或维护而导致的连接中断。对于中断、中止或终止信息或服务，应用程序不应承担责任。同样，对于可能的遗漏、丢失的信息、数据、布局、不正当的访问或违反保密协议，由于技术问题、通信或人为遗漏而引起的保密，也不应承担责任。由于计算机攻击或病毒影响计算机程序、通信系统或使用的设备造成的损害或由第三方制造或提供的病毒所造成的损害，改程序也不承担责任。应用程序可以在任何时候拒绝、删除、暂停和/或阻止任何不遵守这些规则的用户的信息和服务。";
+
+/* Class = "UIButton"; normalTitle = "Safety Guidelines"; ObjectID = "m2r-k4-dZO"; */
+"m2r-k4-dZO.normalTitle" = "安全指导";
+
+/* Class = "UILabel"; text = "If any clause included in these general terms were declared totally or partially invalid or unenforceable, such invalidity or unenforceability shall only affect such provision or part thereof that is void or ineffective, with these general conditions subsisting over everything else, duly deeming said provision wholly or partly as not included."; ObjectID = "ney-qy-7sE"; */
+"ney-qy-7sE.text" = "如果任何条款包含在这些一般条款被宣布完全或部分无效或无法执行,这种无效或非强制性应当只影响该条款或部分无效或无效的,这些一般条件现存的一切,适时地认为说条款全部或部分不包括在内。";
+
+/* Class = "UILabel"; text = "No, is not mandatory, but is recommended to establish a location for better browsing, the application will link your profile to your area this way will offer you articles near your area."; ObjectID = "nsa-FV-66B"; */
+"nsa-FV-66B.text" = "不，不是强制性的，但是推荐建立一个更好的浏览地点，这个应用程序会把你的个人资料和你的区域联系起来，这样会在你的区域附近提供你的文章。";
+
+/* Class = "UILabel"; text = "Tenabled S.L\nAvenida Diagonal 601 8º\n08028"; ObjectID = "o2n-b6-zCV"; */
+"o2n-b6-zCV.text" = "Tenabled 公司\n对角大姐 601 8º\n08028";
+
+/* Class = "UILabel"; text = "Social media"; ObjectID = "o8d-rp-fZO"; */
+"o8d-rp-fZO.text" = "社交媒体";
+
+/* Class = "UIButton"; normalTitle = "FAQ"; ObjectID = "otB-Ih-d7t"; */
+"otB-Ih-d7t.normalTitle" = "常见问题";
+
+/* Class = "UILabel"; text = "Of course, just as you can block an article, you can also block a chat conversation to, and its user can also be blocked, these features are to foster safe and responsible usage"; ObjectID = "pc1-Dm-anZ"; */
+"pc1-Dm-anZ.text" = "当然，正如您可以阻止一篇文章一样，您也可以阻止聊天对话，并且它的用户也可以被阻止，这些特性是为了促进安全和负责的使用。";
+
+/* Class = "UILabel"; text = "CIF"; ObjectID = "piG-O3-mFq"; */
+"piG-O3-mFq.text" = "CIF";
+
+/* Class = "UILabel"; text = "These terms of use for the mobile application, regulate the terms of access and use of XAP, owned by Tenabled SL whose registered address is given as Avenida Diagonal 601 Planta 8, 08028 Barcelona, and holder of Fiscal Identity Card numbered NIF B66983537, hereinafter referred to as \"the Company\", which the user of the application must duly accept to use all services and information provided from the application."; ObjectID = "qPb-Cj-bjr"; */
+"qPb-Cj-bjr.text" = "这些用在移动应用的条款，规范了XAP的访问和使用条款，由Tenabled SL拥有，它的注册地址是在Avenida Diagonal 601 Planta 8, 08028 Barcelona，以及财政身份证持有人号码NIF B66983537，以下简称公司，应用程序的用户必须充分应用和接受所有来自该程序的服务和信息。";
+
+/* Class = "UILabel"; text = "Modifications"; ObjectID = "tF2-NU-yyW"; */
+"tF2-NU-yyW.text" = "修改";
+
+/* Class = "UILabel"; text = "1. Xap is a community that, unlike others, in which it is allowed to sell a wide variety of items, yet however, we wish to set out a series of advertising rules so that each and every one of us all feel like we are at our home."; ObjectID = "tJ7-w4-08b"; */
+"tJ7-w4-08b.text" = "1. Xap是一个社区。不像其他公司，它允许销售各种各样的商品。然而，我们希望制定一系列的广告规则，让我们每个人都感觉自己就像在家里一样。";
+
+/* Class = "UILabel"; text = "How do I unsubscribe?"; ObjectID = "vuE-Cu-SCh"; */
+"vuE-Cu-SCh.text" = "我如何退订?";
+
+/* Class = "UILabel"; text = "Introduction"; ObjectID = "wBt-QF-i0Y"; */
+"wBt-QF-i0Y.text" = "说明书";
+
+/* Class = "UILabel"; text = "Likewise, The User may not access the portal in order to transmit, store, disseminate, promote or distribute data or contents that are carriers of viruses or any other computer code, files or programmes designed to interrupt, destroy, or damage the operation of any programme or computer or telecommunications."; ObjectID = "wwG-3h-edo"; */
+"wwG-3h-edo.text" = "同样地，用户可能无法访问门户，以便传输、存储、传播、推广或传播病毒载体或其他计算机代码、文件或程序，以中断、破坏或破坏任何程序、计算机或通信的操作。";
+
+/* Class = "UILabel"; text = "Users can access via the application different kinds of information and services. The application reserves the right to modify, at any time, and without prior notice, the presentation and layout of the information and services offered. The user acknowledges and accepts that at any time the application may interrupt, disable and/or cancel any information or service. The application will make strident efforts to try to ensure availability and accessibility. However, occasionally, for maintenance purposes, updates or changes, may involve the interruption of access to the same."; ObjectID = "xbY-JK-giR"; */
+"xbY-JK-giR.text" = "用户可以通过应用程序访问不同类型的信息和服务。应用程序保留修改权，在任何情况下，且不另行通知，提供信息和服务的展示和布局。用户承认并接受在任何时候应用程序可能中断，禁用取消任何信息或服务。该应用程序将会做出显著努力，以确保可用性和可访问性。但是偶尔会因为出于维护的目的，更新或更改可能会涉及到对相同的访问的中断。";
+
+/* Class = "UILabel"; text = "  Legal agreements"; ObjectID = "xyg-96-ygR"; */
+"xyg-96-ygR.text" = "  法律协议";
+
+/* Class = "UILabel"; text = "CONTACT"; ObjectID = "yLu-jq-NbI"; */
+"yLu-jq-NbI.text" = "联系";
+
+/* Class = "UILabel"; text = "These terms and conditions are governed and interpreted according to Spanish Law. All notifications, requirements, requests and other communications that the User wishes to make to the company owning the application must be made in writing."; ObjectID = "ySm-7G-PGT"; */
+"ySm-7G-PGT.text" = "这些条款和条件根据西班牙法律进行管理和解释。所有的通知、要求、请求和其他通信，用户希望向拥有该应用程序的公司发出的信息必须是书面的。";
+
+/* Class = "UILabel"; text = "Software version"; ObjectID = "yTV-jZ-Cej"; */
+"yTV-jZ-Cej.text" = "软件版本";
+
+/* Class = "UILabel"; text = "Application Contents:"; ObjectID = "ynn-NK-ezN"; */
+"ynn-NK-ezN.text" = "应用内容：";

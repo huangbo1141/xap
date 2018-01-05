@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SearchViewModel.init():SearchViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "catetory">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.collectionView(_:cellForItemAt:):HomeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SearchResultViewController.viewDidLoad():SearchResultViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SearchViewModel.initFilter():SearchViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "searchTitle">
+            </PersistentString>
+            <PersistentString
+               value = "minPrice">
+            </PersistentString>
+            <PersistentString
+               value = "maxPrice">
+            </PersistentString>
+            <PersistentString
+               value = "distance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.loadMore():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModels.items.count">
+            </PersistentString>
+            <PersistentString
+               value = "viewModels.items">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

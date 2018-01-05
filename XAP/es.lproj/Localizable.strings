@@ -1,0 +1,110 @@
+/* 
+  Localizable.strings
+  HitchJob
+
+  Created by Alex on 11/1/2017.
+  Copyright © 2017 alex. All rights reserved.
+*/
+
+"Hello" = "Hola";
+"Please login" = "Por favor, inicie sesión";
+"Male" = "Masculino";
+"Female" = "Femenino";
+"Motors & Accessories" = "Motores y Accesorios";
+"Electronics" = "Electrónicos";
+"Sports & Leisure" = "Deportes y Ocio";
+"Home & Garden" = "Hogar y Jardín";
+"Games & Consoles" = "Juegos y Consolas";
+"Books, Movies & Music" = "Libros, Películas y Música";
+"Fashion & Accessories" = "Moda y Accesorios";
+"Baby & Child" = "Bebés y Niños";
+"Real Estate" = "Propiedades inmobiliarias";
+"Appliances" = "Electrodomésticos";
+"Services" = "Servicios";
+"Other" = "Otros";
+"Accepts Trade" = "Aceptas Intercambios";
+"Firm Price" = "Precio No Negociable";
+"Shipping Available" = "Envío Disponible";
+"Distance" = "Distancia";
+"Price low to high" = "Precio de bajo a alto";
+"Price high to low" = "Precio de alto a bajo";
+"Most recently published" = "Publicación más reciente";
+"People or animals" = "Personas o animales";
+"Joke" = "Chiste";
+"Fake item" = "Artículo falsificado";
+"Explicit content" = "Contenido explícito";
+"Photo doesn't match" = "La foto no coincide";
+"Food or drinks" = "Alimentos o bebidas";
+"Drugs or medicines" = "Fármacos o medicamentos";
+"Doubled item" = "Artículo duplicado";
+"Forbidden product or service" = "Producto o servicio prohibido";
+"Resale (tickets, etc)" = "Reventa (entradas, etc.)";
+"Spam" = "Spam";
+"XAP Invitation" = "Invitación a XAP";
+"I've been using XAP, and it's been great. Use it to earn some extra money by selling what you don't need, and discover fantastic things for sale in your community.\n\n" = "Estoy usando XAP, y está siendo genial. Utilízalo para ganar dinero extra vendiendo artículos que ya no necesitas y descubre cosas fantásticas que están a la venta en tu comunidad.\n\n";
+"Create Account or Sign in" = "Crear Cuenta o Iniciar Sesión ";
+"at XAP" = "en XAP";
+"Go to profile" = "Ir al perfil";
+"Share listing on XAP" = "Compartir listado en XAP";
+"This is Listing on XAP, shared by" = "Esto está listado en XAP, compartido por";
+"Cancel" = "Cancelar";
+"Sign Out" = "Cerrar sesión";
+"Failed to SignOut." = "No se pudo cerrar sesión.";
+"MALE" = "MASCULINO";
+"FEMALE" = "FEMENINO";
+"Succeed to update profile" = "Actualización de perfil realizada correctamente";
+"Failed to update profile" = "No se pudo actualizar el perfil";
+"Email" = "Correo electrónico";
+"Change email" = "Cambiar correo electrónico";
+"OK" = "OK";
+"Select Source" = "Seleccionar Fuente";
+"Camera Roll" = "Álbum de cámara";
+"Take Photo" = "Sacar Foto";
+"Facebook account is successfully verified" = "La cuenta de Facebook fue verificada correctamente";
+"Failed to verify your Facebook account" = "No se pudo verificar tu cuenta de Facebook";
+"Google account is successfully verified." = "La cuenta de Google fue verificada correctamente.";
+"Failed to verify your Google account" = "No se pudo verificar tu cuenta de Google";
+"Email address is not exist.\nPlease try again after input Email address on profile setting." = "La dirección de correo electrónico no existe.\ nPor favor, inténtelo de nuevo después de introducir la dirección de correo electrónico en la configuración de perfil.";
+"Verification email sent." = "El correo electrónico de verificación fue enviado.";
+"Failed to send verification email" = "No se pudo enviar el correo electrónico de verificación";
+"Succeed to update interesting categories." = "Las categorías interesantes fueron actualizadas correctamente.";
+"Failed to update interesting categories." = "No se pudo actualizar categorías interesantes.";
+"Succeed to update Notification settings." = "La configuración de las notificaciones fue actualizada correctamente.";
+"Failed to update Notification settings." = "No se pudo actualizar la configuración de las notificaciones.";
+"Close (1 mile)" = "Cerca (1 milla)";
+"My area (5 miles)" = "Mi área (5 millas)";
+"My city (10 miles)" = "Mi ciudad (10 millas)";
+"Far (10+ miles)" = "Lejos (Más de 10 millas)";
+"Update item" = "Actualizar artículo";
+"You have to add at least one picture." = "Debes añadir al menos una imagen.";
+"Successed listing item" = "El artículo fue listado correctamente";
+"Failed listing item" = "No se pudo listar el artículo";
+"Done" = "Hecho";
+"Failed to delete messsages." = "No se pudo eliminar los mensajes.";
+"Chat" = "Chat";
+"Failed to Login using your Facebook account" = "No se pudo iniciar la sesión con tu cuenta de Facebook ";
+"Failed to Login using your Google account" = "No se pudo iniciar la sesión con tu cuenta de Google";
+"Please input Email address." = "Por favor, introduce la dirección de correo electrónico.";
+"Please input correct Email address." = "Por favor, introduce una dirección de correo electrónico correcta.";
+"Please input Password." = "Por favor, introduce la Contraseña.";
+"Failed to Signin" = "No se pudo iniciar sesión";
+"Invalid Email/Password. Please input valid informations." = "Correo electrónico/contraseña no válida. Por favor, introduce una información válida.";
+"Please input UserName." = "Por favor, introduce el Nombre de Usuario.";
+"Password should be at least 8 characters." = "La contraseña debe tener al menos 8 caracteres.";
+"Failed to Signin" = "No se pudo iniciar sesión";
+"Failed to register user" = "No se pudo registrar usuario";
+"The email address has already been registered!" = "La dirección de correo electrónico ya está registrada!";
+"The username has already been registered!" = "El nombre de usuario ya se ha registrado!";
+"App couldn't connect to our server, because of your network condition.\nPlease check your network and refresh." = "La aplicación no pudo conectarse a nuestro servidor, debido a la condición de la red.\nCompruebe su red y actualice.";
+"Network Error" = "Error de red";
+
+"Loading..." = "Cargando...";
+"Loading will takes some time." = "La carga se demora un poco.";
+"We tried, but something went\nteriblly wrong" = "Lo intentamos, pero algo salió\nterriblemente mal";
+"Try Again!" = "Inténtalo de nuevo!";
+"Slow or no internet connections.\nPlease check your internet settings" = "Lento o sin conexiones a internet. Comprueba tu configuración de internet";
+"No item founds" = "No se encontraron elementos";
+
+"App couldn't connect to our server, because of your network condition.\nPlease check your network and refresh." = "La aplicación no se pudo conectar a nuestro servidor, debido a su condición de red.\nVerifique su red y actualice.";
+"Turn On Location Services to determine your location" = "Activar servicios de ubicación para determinar su ubicación";
+"Settings" = "Ajustes";

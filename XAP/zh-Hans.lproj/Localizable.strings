@@ -1,0 +1,110 @@
+/* 
+  Localizable.strings
+  HitchJob
+
+  Created by Alex on 11/1/2017.
+  Copyright © 2017 alex. All rights reserved.
+*/
+
+"Hello" = "你好";
+"Please login" = "请登录";
+"Male" = "男姓";
+"Female" = "女性";
+"Motors & Accessories" = "主机&配件";
+"Electronics" = "电子";
+"Sports & Leisure" = "运动&休闲";
+"Home & Garden" = "家&花园";
+"Games & Consoles" = "游戏&支柱";
+"Books, Movies & Music" = "图书, 电影 &amp; 音乐";
+"Fashion & Accessories" = "潮流&配件";
+"Baby & Child" = "婴儿&儿童";
+"Real Estate" = "不动产";
+"Appliances" = "器具";
+"Services" = "服务";
+"Other" = "其他";
+"Accepts Trade" = "接受的贸易";
+"Firm Price" = "实价";
+"Shipping Available" = "可用的运输方式";
+"Distance" = "距离";
+"Price low to high" = "价格从高到低";
+"Price high to low" = "价格从低到高";
+"Most recently published" = "最新出版的";
+"People or animals" = "人或者动物";
+"Joke" = "玩笑";
+"Fake item" = "假冒产品";
+"Explicit content" = "明确内容";
+"Photo doesn't match" = "图片不合适";
+"Food or drinks" = "食物或者饮料";
+"Drugs or medicines" = "药物";
+"Doubled item" = "双份东西";
+"Forbidden product or service" = "禁止的产品或者服务";
+"Resale (tickets, etc)" = "转售（票等）";
+"Spam" = "垃圾";
+"XAP Invitation" = "XAP 的邀请";
+"I've been using XAP, and it's been great. Use it to earn some extra money by selling what you don't need, and discover fantastic things for sale in your community.\n\n" = "我在使用XAP，它非常棒。通过在XAP上出售一些你不需要的东西，可以赚取额外的钱，在你的社区还可以发现很多有趣的东西。\n\n";
+"Create Account or Sign in" = "创建账户或者登陆";
+"at XAP" = "在XAP";
+"Go to profile" = "去到简历";
+"Share listing on XAP" = "在XAP上分享清单";
+"This is Listing on XAP, shared by" = "这个是分享在XAP上的清单";
+"Cancel" = "取消";
+"Sign Out" = "退出";
+"Failed to SignOut." = "退出失败";
+"MALE" = "男性";
+"FEMALE" = "女性";
+"Succeed to update profile" = "成功更新简历";
+"Failed to update profile" = "未能更新简历";
+"Email" = "邮箱";
+"Change email" = "更换邮箱";
+"OK" = "好的";
+"Select Source" = "选择资源";
+"Camera Roll" = "相加交卷";
+"Take Photo" = "拍照";
+"Facebook account is successfully verified" = "成功验证脸书账号";
+"Failed to verify your Facebook account" = "你的脸书账号更新失败";
+"Google account is successfully verified." = "谷歌账号成功验证";
+"Failed to verify your Google account" = "你的脸书账号验证失败";
+"Email address is not exist.\nPlease try again after input Email address on profile setting." = "邮箱不存在。请在简历栏重新填写你的邮箱。";
+"Verification email sent." = "验证邮件已经发送";
+"Failed to send verification email" = "验证邮件发送失败";
+"Succeed to update interesting categories." = "成功更新有趣的类目";
+"Failed to update interesting categories." = "有趣的类目更新失败";
+"Succeed to update Notification settings." = "成功更新通知设置";
+"Failed to update Notification settings." = "未能更新通知设置";
+"Close (1 mile)" = "关闭（一英里）";
+"My area (5 miles)" = "我的区域（5英里）";
+"My city (10 miles)" = "我的城市（10英里）";
+"Far (10+ miles)" = "远的（十几英里）";
+"Update item" = "更新产品";
+"You have to add at least one picture." = "你至少要添加一张图片";
+"Successed listing item" = "成功列出产品";
+"Failed listing item" = "未能列出产品";
+"Done" = "完成";
+"Failed to delete messsages." = "未能删除信息";
+"Chat" = "闲谈";
+"Failed to Login using your Facebook account" = "未能使用你的脸书账号";
+"Failed to Login using your Google account" = "未能使用你的谷歌账号";
+"Please input Email address." = "请输入你的邮箱地址";
+"Please input correct Email address." = "请输入正确的邮箱地址";
+"Please input Password." = "请输入密码";
+"Failed to Signin" = "未能登陆";
+"Invalid Email/Password. Please input valid informations." = "有效的邮箱密码。请输入正确的信息。";
+"Please input UserName." = "请输入用户名";
+"Password should be at least 8 characters." = "密码至少8个字符";
+"Failed to Signin" = "未能登陆";
+"Failed to register user" = "未能注册账户";
+"The email address has already been registered!" = "电子邮件地址已经注册！";
+"The username has already been registered!" = "用户名已经注册！";
+"App couldn't connect to our server, because of your network condition.\nPlease check your network and refresh." = "由于您的网络状况，应用程序无法连接到我们的服务器。\n请检查您的网络并刷新。";
+"Network Error" = "网络错误";
+
+"Loading..." = "载入中...";
+"Loading will takes some time." = "装载需要一些时间";
+"We tried, but something went\nteriblly wrong" = "我们尝试过，\n但是有些事情太糟糕了";
+"Try Again!" = "再试一次！";
+"Slow or no internet connections.\nPlease check your internet settings" = "慢或没有互联网连接。\n请检查您的互联网设置";
+"No item founds" = "没有找到物";
+
+"App couldn't connect to our server, because of your network condition.\nPlease check your network and refresh." = "由于您的网络状况，应用程序无法连接到我们的服务器。\n请检查您的网络并刷新";
+"Turn On Location Services to determine your location" = "打开位置服务以确定您的位置";
+"Settings" = "设置";

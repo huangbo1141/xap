@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Your item"; ObjectID = "2O2-gX-HfQ"; */
+"2O2-gX-HfQ.text" = "Tu artículo";
+
+/* Class = "UITextField"; placeholder = "Category"; ObjectID = "2sK-np-L5b"; */
+"2sK-np-L5b.placeholder" = "Categoría";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "E2S-dF-2fT"; */
+"E2S-dF-2fT.placeholder" = "Título";
+
+/* Class = "UITextField"; text = "CNY"; ObjectID = "EQr-fs-qoU"; */
+"EQr-fs-qoU.text" = "CNY";
+
+/* Class = "UILabel"; text = "Other users said:"; ObjectID = "MF1-xc-7JR"; */
+"MF1-xc-7JR.text" = "Otros usuarios dijeron:";
+
+/* Class = "UIButton"; normalTitle = "List Item"; ObjectID = "Mf5-Hf-75E"; */
+"Mf5-Hf-75E.normalTitle" = "Listar Elemento";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "MlK-up-rE1"; */
+"MlK-up-rE1.placeholder" = "Descripción";
+
+/* Class = "UITextField"; placeholder = "Write just one word"; ObjectID = "PU8-Ie-NJi"; */
+"PU8-Ie-NJi.placeholder" = "Escribe sólo una palabra";
+
+/* Class = "UILabel"; text = "Terms"; ObjectID = "St0-mn-9sp"; */
+"St0-mn-9sp.text" = "Términos";
+
+/* Class = "UILabel"; text = "Firm Price"; ObjectID = "Vwl-12-ELV"; */
+"Vwl-12-ELV.text" = "Precio No Negociable";
+
+/* Class = "UILabel"; text = "Acceptable Trades"; ObjectID = "YpI-M5-vjq"; */
+"YpI-M5-vjq.text" = "Acepto Intercambios";
+
+/* Class = "UILabel"; text = "Terms"; ObjectID = "g3j-jY-c6m"; */
+"g3j-jY-c6m.text" = "Términos";
+
+/* Class = "UILabel"; text = "What do you offer?"; ObjectID = "kNm-hP-f9p"; */
+"kNm-hP-f9p.text" = "¿Qué ofreces?";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "q6D-Cv-Bau"; */
+"q6D-Cv-Bau.placeholder" = "Precio";
+
+/* Class = "UILabel"; text = "Shipping Available"; ObjectID = "rEj-pS-dC9"; */
+"rEj-pS-dC9.text" = "Envío Disponible";

@@ -1,0 +1,111 @@
+/* 
+  Localizable.strings
+  HitchJob
+
+  Created by Alex on 11/1/2017.
+  Copyright © 2017 alex. All rights reserved.
+*/
+
+"Hello" = "Hello";
+"Please login" = "Please login";
+"Male" = "Male";
+"Female" = "Female";
+"Motors & Accessories" = "Motors & Accessories";
+"Electronics" = "Electronics";
+"Sports & Leisure" = "Sports & Leisure";
+"Home & Garden" = "Home & Garden";
+"Games & Consoles" = "Games & Consoles";
+"Books, Movies & Music" = "Books, Movies & Music";
+"Fashion & Accessories" = "Fashion & Accessories";
+"Baby & Child" = "Baby & Child";
+"Real Estate" = "Real Estate";
+"Appliances" = "Appliances";
+"Services" = "Services";
+"Other" = "Other";
+"Accepts Trade" = "Accepts Trade";
+"Firm Price" = "Firm Price";
+"Shipping Available" = "Shipping Available";
+"Distance" = "Distance";
+"Price low to high" = "Price low to high";
+"Price high to low" = "Price high to low";
+"Most recently published" = "Most recently published";
+"People or animals" = "People or animals";
+"Joke" = "Joke";
+"Fake item" = "Fake item";
+"Explicit content" = "Explicit content";
+"Photo doesn't match" = "Photo doesn't match";
+"Food or drinks" = "Food or drinks";
+"Drugs or medicines" = "Drugs or medicines";
+"Doubled item" = "Doubled item";
+"Forbidden product or service" = "Forbidden product or service";
+"Resale (tickets, etc)" = "Resale (tickets, etc)";
+"Spam" = "Spam";
+"XAP Invitation" = "XAP Invitation";
+"I've been using XAP, and it's been great. Use it to earn some extra money by selling what you don't need, and discover fantastic things for sale in your community.\n\n" = "I've been using XAP, and it's been great. Use it to earn some extra money by selling what you don't need, and discover fantastic things for sale in your community.\n\n";
+"Create Account or Sign in" = "Create Account or Sign in";
+"at XAP" = "at XAP";
+"Go to profile" = "Go to profile";
+"Share listing on XAP" = "Share listing on XAP";
+"This is Listing on XAP, shared by" = "This is Listing on XAP, shared by";
+"Cancel" = "Cancel";
+"Sign Out" = "Sign Out";
+"Failed to SignOut." = "Failed to SignOut.";
+"MALE" = "MALE";
+"FEMALE" = "FEMALE";
+"Succeed to update profile" = "Succeed to update profile";
+"Failed to update profile" = "Failed to update profile";
+"Email" = "Email";
+"Change email" = "Change email";
+"OK" = "OK";
+"Select Source" = "Select Source";
+"Camera Roll" = "Camera Roll";
+"Take Photo" = "Take Photo";
+"Facebook account is successfully verified" = "Facebook account is successfully verified";
+"Failed to verify your Facebook account" = "Failed to verify your Facebook account";
+"Google account is successfully verified." = "Google account is successfully verified.";
+"Failed to verify your Google account" = "Failed to verify your Google account";
+"Email address is not exist.\nPlease try again after input Email address on profile setting." = "Email address is not exist.\nPlease try again after input Email address on profile setting.";
+"Verification email sent." = "Verification email sent.";
+"Failed to send verification email" = "Failed to send verification email";
+"Succeed to update interesting categories." = "Succeed to update interesting categories.";
+"Failed to update interesting categories." = "Failed to update interesting categories.";
+"Succeed to update Notification settings." = "Succeed to update Notification settings.";
+"Failed to update Notification settings." = "Failed to update Notification settings.";
+"Close (1 mile)" = "Close (1 mile)";
+"My area (5 miles)" = "My area (5 miles)";
+"My city (10 miles)" = "My city (10 miles)";
+"Far (10+ miles)" = "Far (10+ miles)";
+"Update item" = "Update item";
+"You have to add at least one picture." = "You have to add at least one picture.";
+"Successed listing item" = "Successed listing item";
+"Failed listing item" = "Failed listing item";
+"Done" = "Done";
+"Failed to delete messsages." = "Failed to delete messsages.";
+"Chat" = "Chat";
+"Failed to Login using your Facebook account" = "Failed to Login using your Facebook account";
+"Failed to Login using your Google account" = "Failed to Login using your Google account";
+"Please input Email address." = "Please input Email address.";
+"Please input correct Email address." = "Please input correct Email address.";
+"Please input Password." = "Please input Password.";
+"Failed to Signin" = "Failed to Signin";
+"Invalid Email/Password. Please input valid informations." = "Invalid Email/Password. Please input valid informations.";
+"Please input UserName." = "Please input UserName.";
+"Password should be at least 8 characters." = "Password should be at least 8 characters.";
+"Failed to Signin" = "Failed to Signin";
+"Failed to register user" = "Failed to register user";
+"The email address has already been registered!" = "The email address has already been registered!";
+"The username has already been registered!" = "The username has already been registered!";
+"App couldn't connect to our server, because of your network condition.\nPlease check your network and refresh." = "App couldn't connect to our server, because of your network condition.\nPlease check your network and refresh.";
+"Network Error" = "Network Error";
+
+"Loading..." = "Loading...";
+"Cancel" = "Cancel";
+"Loading will takes some time." = "Loading will takes some time.";
+"We tried, but something went\nteriblly wrong" = "We tried, but something went\nteriblly wrong";
+"Try Again!" = "Try Again!";
+"Slow or no internet connections.\nPlease check your internet settings" = "Slow or no internet connections.\nPlease check your internet settings";
+"No item founds" = "No item founds";
+
+"App couldn't connect to our server, because of your network condition.\nPlease check your network and refresh." = "App couldn't connect to our server, because of your network condition.\nPlease check your network and refresh.";
+"Turn On Location Services to determine your location" = "Turn On Location Services to determine your location";
+"Settings" = "Settings";

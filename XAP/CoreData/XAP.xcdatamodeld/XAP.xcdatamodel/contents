@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13240" systemVersion="" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Item" representedClassName=".Item" syncable="YES">
+        <attribute name="category_" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="currency_" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="description_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="distance_" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="id_" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="isAcceptableTrades_" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="isFirmPrice_" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="isShippingAvailable_" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="latitude_" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="longitude_" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="needDelete_" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="picture1_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="picture2_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="picture3_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="picture4_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="price_" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="reserved_" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="seens_" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="sold_" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="terms_" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="title_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updateTime_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userId_" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <relationship name="favUsers_" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="User" inverseName="favItems_" inverseEntity="User" syncable="YES"/>
+        <relationship name="user_" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="User" inverseName="items_" inverseEntity="User" syncable="YES"/>
+    </entity>
+    <entity name="Message" representedClassName=".Message" syncable="YES">
+        <attribute name="from_" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="fromUserName_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id_" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="isRead_" optional="YES" attributeType="Boolean" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="itemId_" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="message_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="timestamp_" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="to_" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="toUserName_" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="User" representedClassName=".User" syncable="YES">
+        <attribute name="address_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="birthday_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="email_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="facebook_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstName_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="gender_" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="google_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id_" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="lastName_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="latitude_" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="longitude_" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="phoneNumber_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="profileImage_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userName_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="verifyEmail_" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="verifyPhone_" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="favItems_" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Item" inverseName="favUsers_" inverseEntity="Item" syncable="YES"/>
+        <relationship name="items_" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Item" inverseName="user_" inverseEntity="Item" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Item" positionX="-63" positionY="-18" width="128" height="420"/>
+        <element name="Message" positionX="54" positionY="135" width="128" height="180"/>
+        <element name="User" positionX="162" positionY="-7" width="128" height="313"/>
+    </elements>
+</model>

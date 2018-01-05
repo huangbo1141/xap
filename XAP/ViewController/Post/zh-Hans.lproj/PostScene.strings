@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Your item"; ObjectID = "2O2-gX-HfQ"; */
+"2O2-gX-HfQ.text" = "你的产品";
+
+/* Class = "UITextField"; placeholder = "Category"; ObjectID = "2sK-np-L5b"; */
+"2sK-np-L5b.placeholder" = "类目";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "E2S-dF-2fT"; */
+"E2S-dF-2fT.placeholder" = "标题";
+
+/* Class = "UITextField"; text = "CNY"; ObjectID = "EQr-fs-qoU"; */
+"EQr-fs-qoU.text" = "CNY";
+
+/* Class = "UILabel"; text = "Other users said:"; ObjectID = "MF1-xc-7JR"; */
+"MF1-xc-7JR.text" = "其他用户说：";
+
+/* Class = "UIButton"; normalTitle = "List Item"; ObjectID = "Mf5-Hf-75E"; */
+"Mf5-Hf-75E.normalTitle" = "列产品清单";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "MlK-up-rE1"; */
+"MlK-up-rE1.placeholder" = "描述";
+
+/* Class = "UITextField"; placeholder = "Write just one word"; ObjectID = "PU8-Ie-NJi"; */
+"PU8-Ie-NJi.placeholder" = "只写一个单词";
+
+/* Class = "UILabel"; text = "Terms"; ObjectID = "St0-mn-9sp"; */
+"St0-mn-9sp.text" = "条款";
+
+/* Class = "UILabel"; text = "Firm Price"; ObjectID = "Vwl-12-ELV"; */
+"Vwl-12-ELV.text" = "实价";
+
+/* Class = "UILabel"; text = "Acceptable Trades"; ObjectID = "YpI-M5-vjq"; */
+"YpI-M5-vjq.text" = "接受的贸易";
+
+/* Class = "UILabel"; text = "Terms"; ObjectID = "g3j-jY-c6m"; */
+"g3j-jY-c6m.text" = "条款";
+
+/* Class = "UILabel"; text = "What do you offer?"; ObjectID = "kNm-hP-f9p"; */
+"kNm-hP-f9p.text" = "你供应什么？";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "q6D-Cv-Bau"; */
+"q6D-Cv-Bau.placeholder" = "价格";
+
+/* Class = "UILabel"; text = "Shipping Available"; ObjectID = "rEj-pS-dC9"; */
+"rEj-pS-dC9.text" = "可用的运输方式";

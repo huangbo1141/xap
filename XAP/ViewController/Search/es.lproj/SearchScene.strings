@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "24"; ObjectID = "0CJ-8A-rCh"; */
+"0CJ-8A-rCh.text" = "24";
+
+/* Class = "UILabel"; text = "Sort by distance"; ObjectID = "1gc-Z9-WqU"; */
+"1gc-Z9-WqU.text" = "Ordenar por distancia";
+
+/* Class = "UILabel"; text = "days"; ObjectID = "3bV-mP-LlX"; */
+"3bV-mP-LlX.text" = "días";
+
+/* Class = "UILabel"; text = "Accepts trades"; ObjectID = "CNZ-kf-Z2C"; */
+"CNZ-kf-Z2C.text" = "Aceptas intercambios";
+
+/* Class = "UILabel"; text = "hours"; ObjectID = "CSS-oY-FV6"; */
+"CSS-oY-FV6.text" = "horas";
+
+/* Class = "UILabel"; text = "7"; ObjectID = "GGi-Xw-mPi"; */
+"GGi-Xw-mPi.text" = "7";
+
+/* Class = "UILabel"; text = "Publish date"; ObjectID = "Kxb-d6-EC3"; */
+"Kxb-d6-EC3.text" = "Fecha de publicación";
+
+/* Class = "UITextField"; placeholder = "Search XAP"; ObjectID = "Lu8-H1-Jgi"; */
+"Lu8-H1-Jgi.placeholder" = "Buscar XAP";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "OGM-Lb-D9a"; */
+"OGM-Lb-D9a.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "S8H-mn-7zV"; */
+"S8H-mn-7zV.text" = "30";
+
+/* Class = "UILabel"; text = "What else?"; ObjectID = "SKN-NZ-aZG"; */
+"SKN-NZ-aZG.text" = "¿Qué más?";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "Tfb-9K-VY1"; */
+"Tfb-9K-VY1.normalTitle" = "Aplicar";
+
+/* Class = "UILabel"; text = "Price high to low"; ObjectID = "Xmc-15-icQ"; */
+"Xmc-15-icQ.text" = "Precio de alto a bajo";
+
+/* Class = "UILabel"; text = "Most recently published"; ObjectID = "ZCv-HG-yAd"; */
+"ZCv-HG-yAd.text" = "Publicación más reciente";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "epw-r2-o3m"; */
+"epw-r2-o3m.text" = "Label";
+
+/* Class = "UILabel"; text = "Price low to high"; ObjectID = "iJ4-xc-zDc"; */
+"iJ4-xc-zDc.text" = "Precio de bajo a alto";
+
+/* Class = "UILabel"; text = "Delivers"; ObjectID = "kFo-TT-tv9"; */
+"kFo-TT-tv9.text" = "Entregas";
+
+/* Class = "UILabel"; text = "USD1,000"; ObjectID = "kI6-ns-LT5"; */
+"kI6-ns-LT5.text" = "USD1,000";
+
+/* Class = "UILabel"; text = "Sort By"; ObjectID = "l7U-bS-eXu"; */
+"l7U-bS-eXu.text" = "Ordenar por";
+
+/* Class = "UILabel"; text = "days"; ObjectID = "oHF-ns-Shf"; */
+"oHF-ns-Shf.text" = "días";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "pZA-Oi-6Yy"; */
+"pZA-Oi-6Yy.text" = "Distancia";
+
+/* Class = "UILabel"; text = "Far (10+ miles)"; ObjectID = "rQu-0I-41c"; */
+"rQu-0I-41c.text" = "Lejos (Más de 10 millas)";
+
+/* Class = "UILabel"; text = "795$ - 11843$"; ObjectID = "yZb-WF-OQr"; */
+"yZb-WF-OQr.text" = "795$ - 11843$";
