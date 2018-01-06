@@ -49,7 +49,7 @@ class HomeViewController: UIViewController {
         itemCollectionView.refreshControl = pullDownRefreshControl
         
         setCollectionChangeCallback()
-//        refresh()
+        
 
         NotificationCenter.default.addObserver(self, selector: #selector(handleNotification), name: Notification.Name("PushNotification"), object: nil)
 //        NotificationCenter.default.addObserver(self, selector: #selector(refresh), name: Notification.Name("UpdatedLocation"), object: nil)
@@ -299,33 +299,34 @@ class HomeViewController: UIViewController {
             Locator.currentPosition(accuracy: .block, onSuccess: { (location) -> (Void) in
                 AppContext.shared.currentLocation = location.coordinate
                 NotificationCenter.default.post(name: Notification.Name("UpdatedLocation"), object: nil)
-                
+
                 print("Current location: - \(location.coordinate)")
-                
+
                 self.refresh()
             }, onFail: { (locationError, location) -> (Void) in
-                
+
+                self.refresh()
                 print("Location monitoring failed due to an error \(locationError)")
-                
+
             })
             
-            /*
-            Locatoion.getLocation(accuracy: .block, frequency: .oneShot, success: { _, location in
-                
-                AppContext.shared.currentLocation = location.coordinate
-                NotificationCenter.default.post(name: Notification.Name("UpdatedLocation"), object: nil)
-                
-                print("Current location: - \(location.coordinate)")
-                
-                self.refresh()
-                
-            }) { request, last, error in
-                
-                request.cancel()
-                print("Location monitoring failed due to an error \(error)")
-                
-            }
-           */
+            
+//            Location.getLocation(accuracy: .block, frequency: .oneShot, success: { _, location in
+//
+//                AppContext.shared.currentLocation = location.coordinate
+//                NotificationCenter.default.post(name: Notification.Name("UpdatedLocation"), object: nil)
+//
+//                print("Current location: - \(location.coordinate)")
+//
+//                self.refresh()
+//
+//            }) { request, last, error in
+//
+//                request.cancel()
+//                print("Location monitoring failed due to an error \(error)")
+//
+//            }
+           
         }
     }
 }
